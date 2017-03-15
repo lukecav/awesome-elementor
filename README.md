@@ -1,4 +1,4 @@
-# awesome-gravity-forms
+# awesome-elementor
 A collection of third party add-ons for [Elementor](https://elementor.com/) page builder plugin.
 
 ## Third-Party Add-Ons
@@ -18,3 +18,5 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [GeneratePress](https://generatepress.com/) - Responsive, Free WordPress Theme GeneratePress is fast, powerful and easy to use.
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
 * [EleMate](https://wordpress.org/themes/elemate/) - EleMate(Elementor Material) is a custom theme for the Elementor plugin utilising the Material design CSS framework.
+* [Base Theme](https://www.sitepoint.com/basetheme/) - Minimal. Clean. Simple. Lightweight. Responsive.
+* [Actions](https://wordpress.org/themes/actions/) - Simple, clean and actionable WordPress theme built around Actions. Supports a left or right sidebar, full width narrow as well as full width wide modes.
