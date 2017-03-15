@@ -11,6 +11,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [AnyWhere Elementor](https://wordpress.org/plugins/anywhere-elementor/) - Insert Elementor created content anywhere using shortcode.
 * [DZ Elementor Addon](https://wordpress.org/plugins/anywhere-elementor/) - Display your WooCommerce element In Elementor.
 * [Fullwidth Templates for Any Theme & Page Builder](https://wordpress.org/plugins/fullwidth-templates/) - When using a Page Builder, things like page title, boxed layout usually limit your creativity. This plugin helps you go fullwidth on any theme.
+* [StylePress](https://github.com/dtbaker/stylepress) - StylePress is a WordPress plugin that lets you design your entire website quickly and easily.
 
 ## Themes which work well with Elementor
 
