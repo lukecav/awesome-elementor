@@ -9,7 +9,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Addon Widgets For Elementor](https://wordpress.org/plugins/elementor-addon-widgets/) - Adds Native Custom WordPress Widgets that are specifically designed to be used in conjunction with the Elementor Page Builder.
 * [NavMenu Addon For Elementor](https://wordpress.org/plugins/navmenu-addon-for-elementor/) - Adds new NavMenus to the Elementor Page Builder plugin. Now with Site Branding options.
 * [AnyWhere Elementor](https://wordpress.org/plugins/anywhere-elementor/) - Insert Elementor created content anywhere using shortcode.
-* [DZ Elementor Addon](https://wordpress.org/plugins/anywhere-elementor/) - Display your WooCommerce element In Elementor.
+* [DZ Elementor Addon](https://wordpress.org/plugins/dz-elementor-addon/) - Display your WooCommerce element In Elementor.
 * [Fullwidth Templates for Any Theme & Page Builder](https://wordpress.org/plugins/fullwidth-templates/) - When using a Page Builder, things like page title, boxed layout usually limit your creativity. This plugin helps you go fullwidth on any theme.
 * [StylePress](https://github.com/dtbaker/stylepress) - StylePress is a WordPress plugin that lets you design your entire website quickly and easily.
 * [WP Pro Counter](https://wordpress.org/plugins/wp-pro-counter/) - WP Pro Counter lets you add counters inside exiting plugins, editors and content.
