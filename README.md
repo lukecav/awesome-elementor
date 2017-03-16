@@ -11,7 +11,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [AnyWhere Elementor](https://wordpress.org/plugins/anywhere-elementor/) - Insert Elementor created content anywhere using shortcode.
 * [DZ Elementor Addon](https://wordpress.org/plugins/dz-elementor-addon/) - Display your WooCommerce element In Elementor.
 * [Fullwidth Templates for Any Theme & Page Builder](https://wordpress.org/plugins/fullwidth-templates/) - When using a Page Builder, things like page title, boxed layout usually limit your creativity. This plugin helps you go fullwidth on any theme.
-* [StylePress](https://github.com/dtbaker/stylepress) - StylePress is a WordPress plugin that lets you design your entire website quickly and easily.
+* [StylePress](https://wordpress.org/plugins/full-site-builder-for-elementor/) - StylePress is a WordPress plugin that lets you design your entire website quickly and easily.
 * [WP Pro Counter](https://wordpress.org/plugins/wp-pro-counter/) - WP Pro Counter lets you add counters inside exiting plugins, editors and content.
 * [WooRocks Magic Conten](https://wordpress.org/plugins/woorocks-magic-content/) - WooRocks Magic Content lets you control output of content created inside Elementor Page Builder Sections using criterias like User has to be logged in.
 
