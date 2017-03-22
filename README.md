@@ -14,6 +14,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [StylePress](https://wordpress.org/plugins/full-site-builder-for-elementor/) - StylePress is a WordPress plugin that lets you design your entire website quickly and easily.
 * [WP Pro Counter](https://wordpress.org/plugins/wp-pro-counter/) - WP Pro Counter lets you add counters inside exiting plugins, editors and content.
 * [WooRocks Magic Conten](https://wordpress.org/plugins/woorocks-magic-content/) - WooRocks Magic Content lets you control output of content created inside Elementor Page Builder Sections using criterias like User has to be logged in.
+* [Press Elements for Elementor](https://wordpress.org/plugins/press-elements/) - An easy-to-use Elementor widgets that helps you design single page templates to display your content.
 
 ## Themes which work well with Elementor
 
