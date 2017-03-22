@@ -15,6 +15,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [WP Pro Counter](https://wordpress.org/plugins/wp-pro-counter/) - WP Pro Counter lets you add counters inside exiting plugins, editors and content.
 * [WooRocks Magic Conten](https://wordpress.org/plugins/woorocks-magic-content/) - WooRocks Magic Content lets you control output of content created inside Elementor Page Builder Sections using criterias like User has to be logged in.
 * [Press Elements for Elementor](https://wordpress.org/plugins/press-elements/) - An easy-to-use Elementor widgets that helps you design single page templates to display your content.
+* [Header Footer Elementor](https://wordpress.org/plugins/header-footer-elementor/) - Create Header and Footer for your site using Elementor Page Builder.
 
 ## Themes which work well with Elementor
 
