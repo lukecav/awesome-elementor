@@ -16,6 +16,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [WooRocks Magic Conten](https://wordpress.org/plugins/woorocks-magic-content/) - WooRocks Magic Content lets you control output of content created inside Elementor Page Builder Sections using criterias like User has to be logged in.
 * [Press Elements for Elementor](https://wordpress.org/plugins/press-elements/) - An easy-to-use Elementor widgets that helps you design single page templates to display your content.
 * [Header Footer Elementor](https://wordpress.org/plugins/header-footer-elementor/) - Create Header and Footer for your site using Elementor Page Builder.
+* [Elementor Beta Tester](https://github.com/lukecav/elementor-beta-tester) - Run the beta versions of Elementor from Github.
 
 ## Themes which work well with Elementor
 
