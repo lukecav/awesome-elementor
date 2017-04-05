@@ -18,6 +18,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Header Footer Elementor](https://wordpress.org/plugins/header-footer-elementor/) - Create Header and Footer for your site using Elementor Page Builder.
 * [Elementor Beta Tester](https://github.com/lukecav/elementor-beta-tester) - Run the beta versions of Elementor from Github.
 * [Shortcodes Elementor](https://github.com/Nikschavan/shortcodes-elementor) - Add Elementor layouts using shortcodes.
+* [SiteOrigin Widgets Bundle](https://github.com/siteorigin/so-widgets-bundle) - We created this bundle primarily for you to use with your Page Builder pages.
 
 ## Themes which work well with Elementor
 
