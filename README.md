@@ -19,6 +19,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elementor Beta Tester](https://github.com/lukecav/elementor-beta-tester) - Run the beta versions of Elementor from Github.
 * [Shortcodes Elementor](https://github.com/Nikschavan/shortcodes-elementor) - Add Elementor layouts using shortcodes.
 * [SiteOrigin Widgets Bundle](https://github.com/siteorigin/so-widgets-bundle) - We created this bundle primarily for you to use with your Page Builder pages.
+* [Elementor Inline SVG](https://wordpress.org/plugins/inline-svg-elementor/) - An Elementor widget that lets you add an SVG file as markup instead of an html image tag.
 
 ## Themes which work well with Elementor
 
