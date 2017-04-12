@@ -4,7 +4,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested add-ons should be tested and documented.
-- Suggested add-ons should be compatible with Gravity Forms Plugin Name.
+- Suggested add-ons should be compatible with Elementor plugin.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[ADD-ONS](LINK) - DESCRIPTION.`
 - New categories, or improvements to the existing categorization are welcome.
