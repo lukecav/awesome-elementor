@@ -21,6 +21,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [SiteOrigin Widgets Bundle](https://github.com/siteorigin/so-widgets-bundle) - We created this bundle primarily for you to use with your Page Builder pages.
 * [Elementor Inline SVG](https://wordpress.org/plugins/inline-svg-elementor/) - An Elementor widget that lets you add an SVG file as markup instead of an html image tag.
 * [Elementor Contact Form DB](https://www.sean-barton.co.uk/2017/04/elementor-contact-form-db-free-plugin/) - A simple plugin to save contact form submissions in the database, designed for the Elementor Pro Form Module.
+* [Tables For Elementor](https://github.com/WPDevHQ/tables-for-elementor) - Tables For Elementor is an addon companion for the most advanced frontend drag & drop page builder - Elementor. Create Feature rich tables and customize them right inside the page builder.
 
 ## Themes which work well with Elementor
 
