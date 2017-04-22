@@ -23,6 +23,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elementor Contact Form DB](https://www.sean-barton.co.uk/2017/04/elementor-contact-form-db-free-plugin/) - A simple plugin to save contact form submissions in the database, designed for the Elementor Pro Form Module.
 * [Tables For Elementor](https://wordpress.org/plugins/tables-for-elementor/) - Tables For Elementor is an addon companion for the most advanced frontend drag & drop page builder - Elementor. Create Feature rich tables and customize them right inside the page builder.
 * [WP Form Styler For Elementor](https://wordpress.org/plugins/wp-form-styler/) - WP Form Styler is an addon companion for the most advanced frontend drag & drop page builder - Elementor. Bringing Contact & Email Forms design and styling right inside the page builder for ease of customization.
+* [Devices for Elementor](https://wordpress.org/plugins/devices-elementor/) - Devices for Elementor is a powerful Elementor widget that lets you add a phone, tablet, laptop or desktop frame to your images or screens, allowing you to present your mobile or web designs as they’re meant to be seen.
 
 ## Themes which work well with Elementor
 
