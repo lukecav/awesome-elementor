@@ -25,7 +25,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [WP Form Styler For Elementor](https://wordpress.org/plugins/wp-form-styler/) - WP Form Styler is an addon companion for the most advanced frontend drag & drop page builder - Elementor. Bringing Contact & Email Forms design and styling right inside the page builder for ease of customization.
 * [Devices for Elementor](https://wordpress.org/plugins/devices-elementor/) - Devices for Elementor is a powerful Elementor widget that lets you add a phone, tablet, laptop or desktop frame to your images or screens, allowing you to present your mobile or web designs as they’re meant to be seen.
 * [Elementor Post Grid in 5 different style by voidthems for elementor page builder Page builder](https://wordpress.org/plugins/modal-for-elementor/) - Elementor Post Grid in 5 different style by voidthems for elementor page builder.
-* [Modal For Elementor](https://wordpress.org/plugins/void-elementor-post-grid-addon-for-elementor-page-builder/) - Modal plugin for Elementor Page Builder
+* [Modal For Elementor](https://wordpress.org/plugins/modal-for-elementor/) - Modal plugin for Elementor Page Builder.
+* [Contact Form 7 Widget For Elementor](https://wordpress.org/plugins/cf7-widget-elementor/) - Adds Contact Form 7 widget element to Elementor page builder for easy drag & drop the created contact forms with CF7 (contact form 7).
 
 
 ## Themes which work well with Elementor
