@@ -27,6 +27,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Void Elementor Post Grid Addon for Elementor Page](https://wordpress.org/plugins/void-elementor-post-grid-addon-for-elementor-page-builder/) - Elementor Post Grid in 5 different style by voidthems for elementor page builder
 * [Modal For Elementor](https://wordpress.org/plugins/modal-for-elementor/) - Modal plugin for Elementor Page Builder.
 * [Contact Form 7 Widget For Elementor](https://wordpress.org/plugins/cf7-widget-elementor/) - Adds Contact Form 7 widget element to Elementor page builder for easy drag & drop the created contact forms with CF7 (contact form 7).
+* [Elementor Extras](https://shop.namogo.com/product/elementor-extras/) - An Elementor plugin with widgets and extensions to help you build your landing page.
 
 
 ## Themes which work well with Elementor
