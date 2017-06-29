@@ -29,6 +29,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Contact Form 7 Widget For Elementor](https://wordpress.org/plugins/cf7-widget-elementor/) - Adds Contact Form 7 widget element to Elementor page builder for easy drag & drop the created contact forms with CF7 (contact form 7).
 * [Elementor Extras](https://shop.namogo.com/product/elementor-extras/) - An Elementor plugin with widgets and extensions to help you build your landing page.
 * [Addons for Elementor](https://wordpress.org/plugins/addons-for-elementor/) - A collection of premium quality addons or widgets for use in Elementor page builder. Elementor must be installed and activated.
+* [Boosted Elements](https://codecanyon.net/item/boosted-elements-wordpress-page-builder-addon-for-elementor/20225210) - The Boosted Elements plugin adds additional page builder elements to the free Elementor page builder.
 
 
 ## Themes which work well with Elementor
