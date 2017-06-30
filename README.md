@@ -30,6 +30,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elementor Extras](https://shop.namogo.com/product/elementor-extras/) - An Elementor plugin with widgets and extensions to help you build your landing page.
 * [Addons for Elementor](https://wordpress.org/plugins/addons-for-elementor/) - A collection of premium quality addons or widgets for use in Elementor page builder. Elementor must be installed and activated.
 * [Boosted Elements](https://codecanyon.net/item/boosted-elements-wordpress-page-builder-addon-for-elementor/20225210) - The Boosted Elements plugin adds additional page builder elements to the free Elementor page builder.
+* [Elementor Button Plus](https://wordpress.org/plugins/fd-elementor-button-plus/) - Additional Styles and Options for elementor Button Widget.
 
 
 ## Themes which work well with Elementor
