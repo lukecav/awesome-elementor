@@ -41,3 +41,5 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [EleMate](https://wordpress.org/themes/elemate/) - EleMate(Elementor Material) is a custom theme for the Elementor plugin utilising the Material design CSS framework.
 * [Base Theme](https://www.sitepoint.com/basetheme/) - Minimal. Clean. Simple. Lightweight. Responsive.
 * [Actions](https://wordpress.org/themes/actions/) - Simple, clean and actionable WordPress theme built around Actions. Supports a left or right sidebar, full width narrow as well as full width wide modes.
+* [Astra](https://wordpress.org/themes/astra/) - Astra is the fastest, fully customizable & beautiful theme suitable for blogs, personal portfolios and business websites.
+* [Astra Child Theme](https://github.com/brainstormforce/astra-child) - Child theme for Astra Theme, A very lightweight and beautiful theme made to work with Page Builders.
