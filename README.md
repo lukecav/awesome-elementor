@@ -42,4 +42,4 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Base Theme](https://www.sitepoint.com/basetheme/) - Minimal. Clean. Simple. Lightweight. Responsive.
 * [Actions](https://wordpress.org/themes/actions/) - Simple, clean and actionable WordPress theme built around Actions. Supports a left or right sidebar, full width narrow as well as full width wide modes.
 * [Astra](https://wordpress.org/themes/astra/) - Astra is the fastest, fully customizable & beautiful theme suitable for blogs, personal portfolios and business websites.
-* [Astra Child Theme](https://github.com/brainstormforce/astra-child) - Child theme for Astra Theme, A very lightweight and beautiful theme made to work with Page Builders.
+* [Astra Child Theme](https://github.com/brainstormforce/astra-child) - Child theme for Astra Theme, a very lightweight and beautiful theme made to work with Page Builders.
