@@ -32,7 +32,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Boosted Elements](https://codecanyon.net/item/boosted-elements-wordpress-page-builder-addon-for-elementor/20225210) - The Boosted Elements plugin adds additional page builder elements to the free Elementor page builder.
 * [Elementor Button Plus](https://wordpress.org/plugins/fd-elementor-button-plus/) - Additional Styles and Options for elementor Button Widget.
 * [Essential Addons for Elementor Lite](https://wordpress.org/plugins/essential-addons-for-elementor-lite/) - Elements bundle for Elementor page builder plugin for WordPress.
-
+* [Elements Plus](https://wordpress.org/plugins/elements-plus/) - Custom elements for the Elementor page builder.
 
 ## Themes which work well with Elementor
 
