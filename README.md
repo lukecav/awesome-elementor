@@ -1,6 +1,10 @@
 # awesome-elementor
 A collection of third party add-ons for [Elementor](https://elementor.com/) page builder plugin.
 
+## Table Of Contents
+* [Third-Party Add-Onss](#third-party-add-ons)
+* [Themes which work well with Elementor](#themes-which-work-well-with-elementor)
+
 ## Third-Party Add-Ons
 
 * [Elementor Addon Elements](https://wordpress.org/plugins/addon-elements-for-elementor-page-builder/) - Add new elements to Elementor page builder.
