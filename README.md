@@ -2,7 +2,7 @@
 A collection of third party add-ons for [Elementor](https://elementor.com/) page builder plugin.
 
 ## Table Of Contents
-* [Third-Party Add-Onss](#third-party-add-ons)
+* [Third-Party Add-Ons](#third-party-add-ons)
 * [Themes which work well with Elementor](#themes-which-work-well-with-elementor)
 
 ## Third-Party Add-Ons
