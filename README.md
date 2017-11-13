@@ -39,6 +39,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elements Plus](https://wordpress.org/plugins/elements-plus/) - Custom elements for the Elementor page builder.
 * [Lenix Elementor Leads addon](https://wordpress.org/plugins/lenix-elementor-leads-addon/) - A useful Plugin that storages the leads that come from the Elementor contact forms.
 * [WI Contact Form 7 for Elementor](https://wordpress.org/plugins/wi-contact-form-7-for-elementor/) - Custom Contact Form 7 Designer for Elementor Websites.
+* [Elementor Addon Elements](https://wordpress.org/plugins/addon-elements-for-elementor-page-builder/) - Add new elements to Elementor page builder plugin.
 
 ## Themes which work well with Elementor
 
