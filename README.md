@@ -1,4 +1,4 @@
-# awesome-elementor
+# Awesome Elementor
 A collection of third party add-ons for [Elementor](https://elementor.com/) page builder plugin.
 
 ## Table Of Contents
