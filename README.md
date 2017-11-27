@@ -41,6 +41,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [WI Contact Form 7 for Elementor](https://wordpress.org/plugins/wi-contact-form-7-for-elementor/) - Custom Contact Form 7 Designer for Elementor Websites.
 * [Elementor Addon Elements](https://wordpress.org/plugins/addon-elements-for-elementor-page-builder/) - Add new elements to Elementor page builder plugin.
 * [Ninja Forms styler for Elementor Page Builder](https://wordpress.org/plugins/elementor-ninja-forms/) - Ninja Forms styler for elementor. Design the form visually with elementor.
+* [Gravity Forms styler for Elementor Page Builder](https://wordpress.org/plugins/elementor-gravity-forms/) - Gravity Forms styler for elementor. Design the gravity form visually with elementor.
 
 ## Themes which work well with Elementor
 
