@@ -40,8 +40,9 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Lenix Elementor Leads addon](https://wordpress.org/plugins/lenix-elementor-leads-addon/) - A useful Plugin that storages the leads that come from the Elementor contact forms.
 * [WI Contact Form 7 for Elementor](https://wordpress.org/plugins/wi-contact-form-7-for-elementor/) - Custom Contact Form 7 Designer for Elementor Websites.
 * [Elementor Addon Elements](https://wordpress.org/plugins/addon-elements-for-elementor-page-builder/) - Add new elements to Elementor page builder plugin.
-* [Ninja Forms styler for Elementor Page Builder](https://wordpress.org/plugins/elementor-ninja-forms/) - Ninja Forms styler for elementor. Design the form visually with elementor.
-* [Gravity Forms styler for Elementor Page Builder](https://wordpress.org/plugins/elementor-gravity-forms/) - Gravity Forms styler for elementor. Design the gravity form visually with elementor.
+* [Ninja Forms styler for Elementor Page Builder](https://wordpress.org/plugins/elementor-ninja-forms/) - Ninja Forms styler for elementor. Design the form visually with Elementor.
+* [Gravity Forms styler for Elementor Page Builder](https://wordpress.org/plugins/elementor-gravity-forms/) - Gravity Forms styler for elementor. Design the gravity form visually with Elementor.
+* [Caldera Forms styler for Elementor Page Builder](https://wordpress.org/plugins/elementor-caldera-forms/) - Caldera Forms styler for elementor. Design the form visually with Elementor.
 
 ## Themes which work well with Elementor
 
