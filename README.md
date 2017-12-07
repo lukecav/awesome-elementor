@@ -43,6 +43,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Ninja Forms styler for Elementor Page Builder](https://wordpress.org/plugins/elementor-ninja-forms/) - Ninja Forms styler for elementor. Design the form visually with Elementor.
 * [Gravity Forms styler for Elementor Page Builder](https://wordpress.org/plugins/elementor-gravity-forms/) - Gravity Forms styler for elementor. Design the gravity form visually with Elementor.
 * [Caldera Forms styler for Elementor Page Builder](https://wordpress.org/plugins/elementor-caldera-forms/) - Caldera Forms styler for elementor. Design the form visually with Elementor.
+* [Elementor Essential Addons](https://wordpress.org/plugins/essential-addons-for-elementor-lite/) - The ultimate elements library for Elementor page builder plugin for WordPress.
 
 ## Themes which work well with Elementor
 
