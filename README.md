@@ -46,6 +46,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elementor Essential Addons](https://wordpress.org/plugins/essential-addons-for-elementor-lite/) - The ultimate elements library for Elementor page builder plugin for WordPress.
 * [Elementor WHMCS Elements For Elementor Page Builder](https://wordpress.org/plugins/void-elementor-whmcs-elements/) - Adds Verious Widgets such as Live Domain Searcher, Pricing Table, Knowledge Base in Elementor for being used with your WHMCS or WHMCS Bridge Plugin for Hosting Website.
 * [Frontend Post for Elementor](https://wordpress.org/plugins/dj-elementor-frontend/) - Enable Publishing Post's for Logged In users from Frontend via API. Hidden for logged-out users, And custom HTML or Elementor Template Shortcode for Them.
+* [Elementor ImageBox](https://wordpress.org/plugins/fd-elementor-imagebox/) - Additional Hover Styles for elementor Imagebox Widget.
 
 ## Themes which work well with Elementor
 
