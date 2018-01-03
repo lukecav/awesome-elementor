@@ -48,6 +48,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Frontend Post for Elementor](https://wordpress.org/plugins/dj-elementor-frontend/) - Enable Publishing Post's for Logged In users from Frontend via API. Hidden for logged-out users, And custom HTML or Elementor Template Shortcode for Them.
 * [Elementor ImageBox](https://wordpress.org/plugins/fd-elementor-imagebox/) - Additional Hover Styles for elementor Imagebox Widget.
 * [Impressive Sliders for Elementor Page Builder](https://wordpress.org/plugins/impressive-sliders-for-elementor-page-builder/) - Image slider and gallery elements for Elementor page builder using jQuery Jssor Slider.
+* [Upload Field For Elementor Forms](https://wordpress.org/plugins/epf-upload-field/) - This extension will add upload field to Elementor Pro Forms.
 
 ## Themes which work well with Elementor
 
