@@ -50,6 +50,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Impressive Sliders for Elementor Page Builder](https://wordpress.org/plugins/impressive-sliders-for-elementor-page-builder/) - Image slider and gallery elements for Elementor page builder using jQuery Jssor Slider.
 * [Upload Field For Elementor Forms](https://wordpress.org/plugins/epf-upload-field/) - This extension will add upload field to Elementor Pro Forms.
 * [Ultimate Elements Elementor Page Builder](https://wordpress.org/plugins/ultimate-elements-elementor-page-builder/) - Wide range of UI and feature elements for Elementor page builder.
+* [Premium Addons for Elementor](https://wordpress.org/plugins/premium-addons-for-elementor/) - Page Builder Add-ons for Elementor.
 
 ## Themes which work well with Elementor
 
