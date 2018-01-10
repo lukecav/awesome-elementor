@@ -4,6 +4,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 ## Table Of Contents
 * [Third-Party Add-Ons](#third-party-add-ons)
 * [Themes which work well with Elementor](#themes-which-work-well-with-elementor)
+* [Performance tweaks for Elementor](#elementor-performance)
 
 ## Third-Party Add-Ons
 
@@ -62,3 +63,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Astra](https://wordpress.org/themes/astra/) - Astra is the fastest, fully customizable & beautiful theme suitable for blogs, personal portfolios and business websites.
 * [Astra Child Theme](https://github.com/brainstormforce/astra-child) - Child theme for Astra Theme, a very lightweight and beautiful theme made to work with Page Builders.
 * [Tiny Hestia](https://wordpress.org/themes/tiny-hestia/) - Tiny Hestia is a child theme for blogging enthusiasts and for page builders fans. 
+
+## Elementor Performance
+
+* [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
