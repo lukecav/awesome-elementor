@@ -52,6 +52,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Upload Field For Elementor Forms](https://wordpress.org/plugins/epf-upload-field/) - This extension will add upload field to Elementor Pro Forms.
 * [Ultimate Elements Elementor Page Builder](https://wordpress.org/plugins/ultimate-elements-elementor-page-builder/) - Wide range of UI and feature elements for Elementor page builder.
 * [Premium Addons for Elementor](https://wordpress.org/plugins/premium-addons-for-elementor/) - Page Builder Add-ons for Elementor.
+* [Granular Controls For Elementor](https://wordpress.org/plugins/granular-controls-for-elementor/) - Take control of your favourite page builder's elements to design better websites and landing pages and overall better UI/UX.
 
 ## Themes which work well with Elementor
 
