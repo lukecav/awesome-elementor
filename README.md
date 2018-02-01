@@ -55,6 +55,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Granular Controls For Elementor](https://wordpress.org/plugins/granular-controls-for-elementor/) - Take control of your favourite page builder's elements to design better websites and landing pages and overall better UI/UX.
 * [Flexible Elementor Panel](https://wordpress.org/plugins/flexible-elementor-panel/) - This is an add-on for popular page builder Elementor. Makes Elementor Widgets Panel flexible, draggable and folding that more space and opportunities.
 * [BEW Menu Cart](https://wordpress.org/plugins/bew-menu-cart/) - Add Woocommerce and EDD Menu Cart Widget to the popular free page builder Elementor.
+* [Unlimited Elements for Elementor](https://wordpress.org/plugins/unlimited-elements-for-elementor/) - Addons pack for Elementor Page Builder.
 
 ## Themes which work well with Elementor
 
