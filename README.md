@@ -71,3 +71,4 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 ## Elementor Performance
 
 * [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
+* [Debug Elementor](https://wordpress.org/plugins/debug-elementor/) - Debugging plugin for Elementor to display post/page data saved by Elementor page builder.
