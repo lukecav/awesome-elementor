@@ -56,6 +56,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Flexible Elementor Panel](https://wordpress.org/plugins/flexible-elementor-panel/) - This is an add-on for popular page builder Elementor. Makes Elementor Widgets Panel flexible, draggable and folding that more space and opportunities.
 * [BEW Menu Cart](https://wordpress.org/plugins/bew-menu-cart/) - Add Woocommerce and EDD Menu Cart Widget to the popular free page builder Elementor.
 * [Unlimited Elements for Elementor](https://wordpress.org/plugins/unlimited-elements-for-elementor/) - Addons pack for Elementor Page Builder.
+* [QuadMenu – OceanWP Mega Menu](https://wordpress.org/plugins/quadmenu-oceanwp/) - Integrates QuadMenu with the OceanWP theme.
 
 ## Themes which work well with Elementor
 
