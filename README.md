@@ -57,7 +57,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [BEW Menu Cart](https://wordpress.org/plugins/bew-menu-cart/) - Add Woocommerce and EDD Menu Cart Widget to the popular free page builder Elementor.
 * [Unlimited Elements for Elementor](https://wordpress.org/plugins/unlimited-elements-for-elementor/) - Addons pack for Elementor Page Builder.
 * [QuadMenu – OceanWP Mega Menu](https://wordpress.org/plugins/quadmenu-oceanwp/) - Integrates QuadMenu with the OceanWP theme.
-* [Extended Buttons for Elementor](https://wordpress.org/plugins/extended-buttons-for-elementor/) - An Extended of Elementor Button Widget - Two buttons inline with separator text in-between. Option such as, to adjust space between, hide separator text on mobile or make buttons fullwidth on mobile and many others
+* [Extended Buttons for Elementor](https://wordpress.org/plugins/extended-buttons-for-elementor/) - An Extended of Elementor Button Widget - Two buttons inline with separator text in-between. Option such as, to adjust space between, hide separator text on mobile or make buttons fullwidth on mobile and many others.
+* [WidgetKit for Elementor](https://wordpress.org/plugins/widgetkit-for-elementor/) - Huge collection of pro quality element or section for use in Elementor page builder,which you help to create any kind of complicated design without coding.Â  Elementor Page Builder must be installed and activated.
 
 ## Themes which work well with Elementor
 
