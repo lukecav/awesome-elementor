@@ -61,6 +61,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [WidgetKit for Elementor](https://wordpress.org/plugins/widgetkit-for-elementor/) - Huge collection of pro quality element or section for use in Elementor page builder,which you help to create any kind of complicated design without coding.Â  Elementor Page Builder must be installed and activated.
 * [Templementor – Persistent Elementor Templates](https://wordpress.org/plugins/templementor/) - Create persistent templates with Elementor to shape up and edit your pages in minutes.
 * [Elementor Google Map Extended](https://wordpress.org/plugins/extended-google-map-for-elementor/) - An Extended of Elementor Google Map Widget - Easily add multiple address pins onto the same map with support for different map types (Road Map/Satellite/Hybrid/Terrain) and custom map style. Freely edit info window content of your pins with the standard Elementor text editor. And many more custom map options.
+* [Team Members for Elementor Page Builder](https://wordpress.org/plugins/team-members-for-elementor/) - Elementor extension fow showing team members profile.
 
 ## Themes which work well with Elementor
 
