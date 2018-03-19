@@ -62,6 +62,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Templementor – Persistent Elementor Templates](https://wordpress.org/plugins/templementor/) - Create persistent templates with Elementor to shape up and edit your pages in minutes.
 * [Elementor Google Map Extended](https://wordpress.org/plugins/extended-google-map-for-elementor/) - An Extended of Elementor Google Map Widget - Easily add multiple address pins onto the same map with support for different map types (Road Map/Satellite/Hybrid/Terrain) and custom map style. Freely edit info window content of your pins with the standard Elementor text editor. And many more custom map options.
 * [Team Members for Elementor Page Builder](https://wordpress.org/plugins/team-members-for-elementor/) - Elementor extension fow showing team members profile.
+* [Extra Privacy for Elementor](https://wordpress.org/plugins/extra-privacy-for-elementor/) - This will add some extra privady settings to Elementor Widgets, regarding the EU-Privacy Regulations.
 
 ## Themes which work well with Elementor
 
