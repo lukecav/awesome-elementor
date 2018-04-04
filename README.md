@@ -64,6 +64,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Team Members for Elementor Page Builder](https://wordpress.org/plugins/team-members-for-elementor/) - Elementor extension fow showing team members profile.
 * [Extra Privacy for Elementor](https://wordpress.org/plugins/extra-privacy-for-elementor/) - This will add some extra privady settings to Elementor Widgets, regarding the EU-Privacy Regulations.
 * [Portfolio for Elementor](https://wordpress.org/plugins/portfolio-elementor/) - This plugin extend Elementor by adding the Portfolio functionality for free.
+* [Toolbar Extras for Elementor Page Builder](https://wordpress.org/plugins/toolbar-extras/) - This plugins adds a lot of quick jump links to the WordPress Toolbar helpful for Site Builders who use Elementor and its ecosystem of add-ons and from the theme space.
 
 ## Themes which work well with Elementor
 
