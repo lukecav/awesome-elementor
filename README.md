@@ -68,6 +68,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Power Ups for Elementor](https://wordpress.org/plugins/power-ups-for-elementor/) - Add new addons, widgets and features for Elementor page builder, like Slider, Team, Testimonials, Post Carousel and Portfolio.
 * [Hotel Booking & Elementor Integration](https://wordpress.org/plugins/mphb-elementor/) - Manage hotel booking shortcodes in Elementor builder.
 * [Elementor Call to Action Box Animate](https://wordpress.org/plugins/call-to-action-box-animate-for-elementor/) - A Simple and Interactive Call-to-Action Elementor Widget which has content hover animations, background hover transition, 2 buttons with separator text in-between, subtitle with option to choose before or after the title, overlay text and overlay animation and more.
+* [Revolution for Elementor](https://wordpress.org/plugins/revolution-for-elementor/) - Revolution for Elementor adds new features and widgets for Elementor and Elementor Pro.
 
 ## Themes which work well with Elementor
 
