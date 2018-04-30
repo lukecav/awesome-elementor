@@ -70,6 +70,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elementor Call to Action Box Animate](https://wordpress.org/plugins/call-to-action-box-animate-for-elementor/) - A Simple and Interactive Call-to-Action Elementor Widget which has content hover animations, background hover transition, 2 buttons with separator text in-between, subtitle with option to choose before or after the title, overlay text and overlay animation and more.
 * [Revolution for Elementor](https://wordpress.org/plugins/revolution-for-elementor/) - Revolution for Elementor adds new features and widgets for Elementor and Elementor Pro.
 * [Elementor Navigation Tree](https://wordpress.org/plugins/navigation-tree-elementor/) - Adds a navigation tree displaying a list of active elements on the elementor editor screen.
+* [Full Screen Menu for Elementor](https://wordpress.org/plugins/full-screen-menu-for-elementor/) - This plugin adds a full screen menu widget to the Elementor Page Builder.
 
 ## Themes which work well with Elementor
 
