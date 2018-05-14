@@ -71,6 +71,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Revolution for Elementor](https://wordpress.org/plugins/revolution-for-elementor/) - Revolution for Elementor adds new features and widgets for Elementor and Elementor Pro.
 * [Elementor Navigation Tree](https://wordpress.org/plugins/navigation-tree-elementor/) - Adds a navigation tree displaying a list of active elements on the elementor editor screen.
 * [Full Screen Menu for Elementor](https://wordpress.org/plugins/full-screen-menu-for-elementor/) - This plugin adds a full screen menu widget to the Elementor Page Builder.
+* [Elementor Element Condition](https://wordpress.org/plugins/ele-conditions/) - Elementor conditions for elements and widgets.
 
 ## Themes which work well with Elementor
 
