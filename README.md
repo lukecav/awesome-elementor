@@ -73,6 +73,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Full Screen Menu for Elementor](https://wordpress.org/plugins/full-screen-menu-for-elementor/) - This plugin adds a full screen menu widget to the Elementor Page Builder.
 * [Elementor Element Condition](https://wordpress.org/plugins/ele-conditions/) - Elementor conditions for elements and widgets.
 * [Sticky Header Effects for Elementor](https://wordpress.org/plugins/sticky-header-effects-for-elementor/) - Options and features that extend Elementor Pro's sticky header capabilities.
+* [WooCommerce For Elementor](https://wordpress.org/plugins/woo-for-elementor/) - Add new Woocommerce Widgets that are specifically designed to be used in conjunction with the Elementor Page Builder.
 
 ## Themes which work well with Elementor
 
