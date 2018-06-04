@@ -74,6 +74,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elementor Element Condition](https://wordpress.org/plugins/ele-conditions/) - Elementor conditions for elements and widgets.
 * [Sticky Header Effects for Elementor](https://wordpress.org/plugins/sticky-header-effects-for-elementor/) - Options and features that extend Elementor Pro's sticky header capabilities.
 * [WooCommerce For Elementor](https://wordpress.org/plugins/woo-for-elementor/) - Add new Woocommerce Widgets that are specifically designed to be used in conjunction with the Elementor Page Builder.
+* [Content Box Addon for Elementor](https://wordpress.org/plugins/content-box-addon-for-elementor/) - 7 unique content box addon designs to your web pages using this Elementor addon.
 
 ## Themes which work well with Elementor
 
