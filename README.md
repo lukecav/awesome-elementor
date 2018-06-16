@@ -75,6 +75,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Sticky Header Effects for Elementor](https://wordpress.org/plugins/sticky-header-effects-for-elementor/) - Options and features that extend Elementor Pro's sticky header capabilities.
 * [WooCommerce For Elementor](https://wordpress.org/plugins/woo-for-elementor/) - Add new Woocommerce Widgets that are specifically designed to be used in conjunction with the Elementor Page Builder.
 * [Content Box Addon for Elementor](https://wordpress.org/plugins/content-box-addon-for-elementor/) - 7 unique content box addon designs to your web pages using this Elementor addon.
+* [Mega WooCommerce Addons for Elementor](https://wordpress.org/plugins/mega-woocommerce-addons-for-elementor/) - Mega WooCommerce Addons for Elementor provides awesome custom WooCommerce widgets for the Elementor page builder.
+
 
 ## Themes which work well with Elementor
 
