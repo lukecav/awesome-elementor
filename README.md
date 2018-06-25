@@ -76,7 +76,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [WooCommerce For Elementor](https://wordpress.org/plugins/woo-for-elementor/) - Add new Woocommerce Widgets that are specifically designed to be used in conjunction with the Elementor Page Builder.
 * [Content Box Addon for Elementor](https://wordpress.org/plugins/content-box-addon-for-elementor/) - 7 unique content box addon designs to your web pages using this Elementor addon.
 * [Mega WooCommerce Addons for Elementor](https://wordpress.org/plugins/mega-woocommerce-addons-for-elementor/) - Mega WooCommerce Addons for Elementor provides awesome custom WooCommerce widgets for the Elementor page builder.
-
+* [Kadence WooCommerce Elementor](https://wordpress.org/plugins/kadence-woocommerce-elementor/) - Elementor for Woocommerce. This plugin adds product templates to create custom product pages as well as allows for full Elementor page builder editing inside the product itself.
 
 ## Themes which work well with Elementor
 
