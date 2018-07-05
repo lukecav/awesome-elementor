@@ -77,7 +77,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Content Box Addon for Elementor](https://wordpress.org/plugins/content-box-addon-for-elementor/) - 7 unique content box addon designs to your web pages using this Elementor addon.
 * [Mega WooCommerce Addons for Elementor](https://wordpress.org/plugins/mega-woocommerce-addons-for-elementor/) - Mega WooCommerce Addons for Elementor provides awesome custom WooCommerce widgets for the Elementor page builder.
 * [Kadence WooCommerce Elementor](https://wordpress.org/plugins/kadence-woocommerce-elementor/) - Elementor for Woocommerce. This plugin adds product templates to create custom product pages as well as allows for full Elementor page builder editing inside the product itself.
-* [Columns Alignment Fix for Elementor](https://wordpress.org/plugins/columns-alignment-fix-for-elementor/) - EAdd an option to fix Elementor's inconsistent columns alignment when using columns gap on sections.
+* [Columns Alignment Fix for Elementor](https://wordpress.org/plugins/columns-alignment-fix-for-elementor/) - Add an option to fix Elementor's inconsistent columns alignment when using columns gap on sections.
+* [Split Test For Elementor](https://wordpress.org/plugins/split-test-for-elementor/) - Split Test For Elementor.
 
 ## Themes which work well with Elementor
 
