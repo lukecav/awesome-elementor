@@ -79,6 +79,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Kadence WooCommerce Elementor](https://wordpress.org/plugins/kadence-woocommerce-elementor/) - Elementor for Woocommerce. This plugin adds product templates to create custom product pages as well as allows for full Elementor page builder editing inside the product itself.
 * [Columns Alignment Fix for Elementor](https://wordpress.org/plugins/columns-alignment-fix-for-elementor/) - Add an option to fix Elementor's inconsistent columns alignment when using columns gap on sections.
 * [Split Test For Elementor](https://wordpress.org/plugins/split-test-for-elementor/) - Split Test For Elementor.
+* [Language Switcher for Elementor](https://wordpress.org/plugins/language-switcher-for-elementor/) - This plugin adds a language switcher widget to the Elementor Page Builder.
 
 ## Themes which work well with Elementor
 
