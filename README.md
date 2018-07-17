@@ -7,7 +7,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Performance tweaks for Elementor](#elementor-performance)
 
 ## Third-Party Add-Ons
-
 * [Elementor Addon Elements](https://wordpress.org/plugins/addon-elements-for-elementor-page-builder/) - Add new elements to Elementor page builder.
 * [Page Templater For Elementor](https://wordpress.org/plugins/elementor-templater/) - A helper plugin for users of Elementor Page Builder.
 * [SJ Elementor Addon](https://wordpress.org/plugins/sj-elementor-addon/) - SJ Elementor Addon is Elementor Page Builder's Addon Pack. Quickly add SVG, Image separator to your row. Just Drag, Drop and Enjoy.
@@ -85,7 +84,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Massive Addons for Elementor](https://wordpress.org/plugins/massive-addons-for-elementor/) - Collection of High Quality addons for Elementor.
 
 ## Themes which work well with Elementor
-
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
 * [Astra](https://wordpress.org/themes/astra/) - Astra is the fastest, fully customizable & beautiful theme suitable for blogs, personal portfolios and business websites.
 * [Astra Child Theme](https://github.com/brainstormforce/astra-child) - Child theme for Astra Theme, a very lightweight and beautiful theme made to work with Page Builders.
@@ -93,10 +91,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [EleMate](https://wordpress.org/themes/elemate/) - EleMate(Elementor Material) is a custom theme for the Elementor plugin utilising the Material design CSS framework.
 * [Base Theme](https://www.sitepoint.com/basetheme/) - Minimal. Clean. Simple. Lightweight. Responsive.
 * [Actions](https://wordpress.org/themes/actions/) - Simple, clean and actionable WordPress theme built around Actions. Supports a left or right sidebar, full width narrow as well as full width wide modes.
-
 * [Tiny Hestia](https://wordpress.org/themes/tiny-hestia/) - Tiny Hestia is a child theme for blogging enthusiasts and for page builders fans. 
 
 ## Elementor Performance
-
 * [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
 * [Debug Elementor](https://wordpress.org/plugins/debug-elementor/) - Debugging plugin for Elementor to display post/page data saved by Elementor page builder.
