@@ -80,6 +80,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Columns Alignment Fix for Elementor](https://wordpress.org/plugins/columns-alignment-fix-for-elementor/) - Add an option to fix Elementor's inconsistent columns alignment when using columns gap on sections.
 * [Split Test For Elementor](https://wordpress.org/plugins/split-test-for-elementor/) - Split Test For Elementor.
 * [Language Switcher for Elementor](https://wordpress.org/plugins/language-switcher-for-elementor/) - This plugin adds a language switcher widget to the Elementor Page Builder.
+* [All In One Contact Form Integration For Elementor](https://wordpress.org/plugins/all-contact-form-integration-for-elementor/) - Integrate & style your Contact Form 7, Ninja Forms, Gravity Forms in Elementor visual editor.
 
 ## Themes which work well with Elementor
 
