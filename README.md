@@ -81,6 +81,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Split Test For Elementor](https://wordpress.org/plugins/split-test-for-elementor/) - Split Test For Elementor.
 * [Language Switcher for Elementor](https://wordpress.org/plugins/language-switcher-for-elementor/) - This plugin adds a language switcher widget to the Elementor Page Builder.
 * [All In One Contact Form Integration For Elementor](https://wordpress.org/plugins/all-contact-form-integration-for-elementor/) - Integrate & style your Contact Form 7, Ninja Forms, Gravity Forms in Elementor visual editor.
+* [Dashboard Welcome for Elementor](https://wordpress.org/plugins/dashboard-welcome-for-elementor/) - Replaces the default WordPress dashboard welcome panel with a Elementor template.
+* [Massive Addons for Elementor](https://wordpress.org/plugins/massive-addons-for-elementor/) - Collection of High Quality addons for Elementor.
 
 ## Themes which work well with Elementor
 
