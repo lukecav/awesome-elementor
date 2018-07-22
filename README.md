@@ -82,6 +82,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [All In One Contact Form Integration For Elementor](https://wordpress.org/plugins/all-contact-form-integration-for-elementor/) - Integrate & style your Contact Form 7, Ninja Forms, Gravity Forms in Elementor visual editor.
 * [Dashboard Welcome for Elementor](https://wordpress.org/plugins/dashboard-welcome-for-elementor/) - Replaces the default WordPress dashboard welcome panel with a Elementor template.
 * [Massive Addons for Elementor](https://wordpress.org/plugins/massive-addons-for-elementor/) - Collection of High Quality addons for Elementor.
+* [Dynamic Visibility for Elementor](https://wordpress.org/plugins/dynamic-visibility-for-elementor/) - Elementor plugin visibility.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
