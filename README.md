@@ -84,6 +84,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Massive Addons for Elementor](https://wordpress.org/plugins/massive-addons-for-elementor/) - Collection of High Quality addons for Elementor.
 * [Dynamic Visibility for Elementor](https://wordpress.org/plugins/dynamic-visibility-for-elementor/) - Elementor plugin visibility.
 * [Rife Elementor Extensions & Templates](https://wordpress.org/plugins/rife-elementor-extensions/) - Brings new widgets to be used in Elementor and allows you to import beautiful full page templates for Elementor.
+* [Country Flags for Elementor](https://wordpress.org/plugins/country-flags-for-elementor/) - This plugin adds a country flags widget to the Elementor Page Builder.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
