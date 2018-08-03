@@ -87,6 +87,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Country Flags for Elementor](https://wordpress.org/plugins/country-flags-for-elementor/) - This plugin adds a country flags widget to the Elementor Page Builder.
 * [JetWidgets For Elementor](https://wordpress.org/plugins/jetwidgets-for-elementor/) - Brand new addon for Elementor Page builder. It provides the set of modules to create different kinds of content, adds custom modules to your website and applies attractive styles in the matter of several clicks.
 * [Widgets For Elementor](https://wordpress.org/plugins/widgets-for-elementor/) - Best Addon for Elementor WordPress Plugin with Most of the Popular Elements that you need for everyday use in website page building.
+* [Dynamic Animations for Elementor](https://wordpress.org/plugins/dynamic-animations-for-elementor/) - Elementor plugin animations.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
