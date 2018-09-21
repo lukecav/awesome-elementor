@@ -93,6 +93,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Formentor – Elementor Form Plus](https://wordpress.org/plugins/formentor-elementor-form-plus/) - Elementor Form Plus allows you to send submited forms directly from your WordPress site to Google Sheet and more.
 * [Image Hotspot Addon – Elementor Page Builder](https://wordpress.org/plugins/image-hotspot-addon-elementor/) - Create beautiful, responsive and professional Image hotspots with highly customisable tooltips.
 * [Meta Box – Elementor Integrator](https://wordpress.org/plugins/mb-elementor-integrator/) - Integrates Meta Box and Elementor Page Builder.
+* [Ultimate Addons For Elementor](https://wordpress.org/plugins/ultimate-addons-for-elementor/) - Ultimate Addons gives you multi plugins all in one. It's very powerful for any theme.
 .
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
