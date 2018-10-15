@@ -96,6 +96,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Ultimate Addons For Elementor](https://wordpress.org/plugins/ultimate-addons-for-elementor/) - Ultimate Addons gives you multi plugins all in one. It's very powerful for any theme.
 * [Post Grid Elementor Addon](https://wordpress.org/plugins/post-grid-elementor-addon/) - Elementor page builder addon to display posts in the grid. Useful for generating post grid from your blog posts with multiple options.
 * [Fancy Elementor Flipbox](https://wordpress.org/plugins/fancy-elementor-flipbox/) - This plugin adds an amazing and customizable flip box widget(with many options) to the Elementor page builder plugin.
+* [Elementor Blocks for Gutenberg](https://wordpress.org/plugins/block-builder/) - Embed Elementor templates inside Gutenberg.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
