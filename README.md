@@ -5,6 +5,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Third-Party Add-Ons](#third-party-add-ons)
 * [Themes which work well with Elementor](#themes-which-work-well-with-elementor)
 * [Performance tweaks for Elementor](#elementor-performance)
+* [Premium Elementor Third-Party Widgets/Add-Ons](#premium-elementor-third-party-widgetsadd-ons)
 
 ## Third-Party Add-Ons
 * [Elementor Addon Elements](https://wordpress.org/plugins/addon-elements-for-elementor-page-builder/) - Add new elements to Elementor page builder.
@@ -31,7 +32,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Void Elementor Post Grid Addon for Elementor Page](https://wordpress.org/plugins/void-elementor-post-grid-addon-for-elementor-page-builder/) - Elementor Post Grid in 5 different style by voidthems for elementor page builder
 * [Modal For Elementor](https://wordpress.org/plugins/modal-for-elementor/) - Modal plugin for Elementor Page Builder.
 * [Contact Form 7 Widget For Elementor](https://wordpress.org/plugins/cf7-widget-elementor/) - Adds Contact Form 7 widget element to Elementor page builder for easy drag & drop the created contact forms with CF7 (contact form 7).
-* [Elementor Extras](https://shop.namogo.com/product/elementor-extras/) - An Elementor plugin with widgets and extensions to help you build your landing page.
 * [Addons for Elementor](https://wordpress.org/plugins/addons-for-elementor/) - A collection of premium quality addons or widgets for use in Elementor page builder. Elementor must be installed and activated.
 * [Boosted Elements](https://codecanyon.net/item/boosted-elements-wordpress-page-builder-addon-for-elementor/20225210) - The Boosted Elements plugin adds additional page builder elements to the free Elementor page builder.
 * [Elementor Button Plus](https://wordpress.org/plugins/fd-elementor-button-plus/) - Additional Styles and Options for elementor Button Widget.
@@ -112,3 +112,10 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 ## Elementor Performance
 * [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
 * [Debug Elementor](https://wordpress.org/plugins/debug-elementor/) - Debugging plugin for Elementor to display post/page data saved by Elementor page builder.
+
+## Premium Elementor Third-Party Widgets/Add-Ons
+|                                                 |                                                                                                                                                                            |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![crocoblock.com](./dist/crocoblock.jpg)        | [CrocoBlock](https://crocoblock.com/) - Perfect Elementor Package for Beginners. Invaluable for Developers & Web Studios.                                                  |
+| ![shop.namogo.com](./dist/elementor-extras.jpg) | [Elementor Extras](https://shop.namogo.com/product/elementor-extras/) - An Elementor plugin with widgets and extensions to help you build your landing page.               |
+| ![uaelementor.com](./dist/uaelementor.jpg)      | [Ultimate Addons for Elementor](https://uaelementor.com/) - A library of unique Elementor Widgets to add more functionality and flexibility to your favorite page builder. |
