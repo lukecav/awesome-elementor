@@ -100,6 +100,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Countdown Timer for Elementor](https://wordpress.org/plugins/countdown-timer-for-elementor/) - Showcase a countdown timer for your next upcoming event or offers with elementor page builder.
 * [GT3 Elementor Photo Gallery](https://wordpress.org/plugins/gt3-elementor-photo-gallery/) - Easy to use GT3 photo gallery for Elementor drag and drop page builder. Build your creative online photo galleries fast.
 * [Mosaic Gallery Addon for Elementor](https://wordpress.org/plugins/mosaic-gallery-for-elementor/) - Mosaic Gallery Addon for Elementor plugin.
+* [Piotnet Addons For Elementor](https://wordpress.org/plugins/piotnet-addons-for-elementor/) - Piotnet Addons For Elementor (PAFE) adds many new features for Elementor.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
