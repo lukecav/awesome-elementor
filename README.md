@@ -101,6 +101,9 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [GT3 Elementor Photo Gallery](https://wordpress.org/plugins/gt3-elementor-photo-gallery/) - Easy to use GT3 photo gallery for Elementor drag and drop page builder. Build your creative online photo galleries fast.
 * [Mosaic Gallery Addon for Elementor](https://wordpress.org/plugins/mosaic-gallery-for-elementor/) - Mosaic Gallery Addon for Elementor plugin.
 * [Piotnet Addons For Elementor](https://wordpress.org/plugins/piotnet-addons-for-elementor/) - Piotnet Addons For Elementor (PAFE) adds many new features for Elementor.
+* [Smart Fonts for Elementor](https://wordpress.org/plugins/codevision-elementor-smart-fonts/) - Adding your beloved TrueType Fonts to your website was never easier before. Comes also with full Elementor Styling Support.
+* [Sina Extension for Elementor](https://wordpress.org/plugins/sina-extension-for-elementor/) - A collection of high-quality widgets for Elementor page builder.
+* [Polylang Connect for Elementor](https://wordpress.org/plugins/connect-polylang-elementor/) - Connect the Polylang multilingual plugin with Elementor Page Builder: This plugin will make Elementor and Polylang show the correct language templates, especially with Elementor Pro Theme Builder.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
@@ -111,8 +114,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Base Theme](https://www.sitepoint.com/basetheme/) - Minimal. Clean. Simple. Lightweight. Responsive.
 * [Actions](https://wordpress.org/themes/actions/) - Simple, clean and actionable WordPress theme built around Actions. Supports a left or right sidebar, full width narrow as well as full width wide modes.
 * [Tiny Hestia](https://wordpress.org/themes/tiny-hestia/) - Tiny Hestia is a child theme for blogging enthusiasts and for page builders fans. 
-* [Smart Fonts for Elementor](https://wordpress.org/plugins/codevision-elementor-smart-fonts/) - Adding your beloved TrueType Fonts to your website was never easier before. Comes also with full Elementor Styling Support.
-* [Sina Extension for Elementor](https://wordpress.org/plugins/sina-extension-for-elementor/) - A collection of high-quality widgets for Elementor page builder.
 
 ## Elementor Performance
 * [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
