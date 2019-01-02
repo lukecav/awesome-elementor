@@ -104,6 +104,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Smart Fonts for Elementor](https://wordpress.org/plugins/codevision-elementor-smart-fonts/) - Adding your beloved TrueType Fonts to your website was never easier before. Comes also with full Elementor Styling Support.
 * [Sina Extension for Elementor](https://wordpress.org/plugins/sina-extension-for-elementor/) - A collection of high-quality widgets for Elementor page builder.
 * [Polylang Connect for Elementor](https://wordpress.org/plugins/connect-polylang-elementor/) - Connect the Polylang multilingual plugin with Elementor Page Builder: This plugin will make Elementor and Polylang show the correct language templates, especially with Elementor Pro Theme Builder.
+* [Visibility Logic for Elementor](https://wordpress.org/plugins/visibility-logic-elementor/) - Hide or show Elementor widgets based on user conditions.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
