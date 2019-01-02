@@ -106,6 +106,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Polylang Connect for Elementor](https://wordpress.org/plugins/connect-polylang-elementor/) - Connect the Polylang multilingual plugin with Elementor Page Builder: This plugin will make Elementor and Polylang show the correct language templates, especially with Elementor Pro Theme Builder.
 * [Visibility Logic for Elementor](https://wordpress.org/plugins/visibility-logic-elementor/) - Hide or show Elementor widgets based on user conditions.
 * [White Label Branding for Elementor Page Builder](https://wordpress.org/plugins/white-label-branding-elementor/) - White Label Branding for Elementor Page Builder.
+* [The Plus Addons for Elementor Page Builder](https://wordpress.org/plugins/the-plus-addons-for-elementor-page-builder/) - Biggest collection of widgets made for Elementor page builder in WordPress.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
