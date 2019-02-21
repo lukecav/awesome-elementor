@@ -111,6 +111,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Popup Trigger URL for Elementor Pro](https://wordpress.org/plugins/popup-trigger-url-for-elementor-pro/) - Helps you to trigger Elementor Pro's popups (open, close, or toggle) from menus or any kind of link.
 * [PDF Generator Addon for Elementor Page Builder](https://wordpress.org/plugins/pdf-generator-addon-for-elementor-page-builder/) - Pdf Generator Addon for Wordpress Elementor Page Builder allows to create pdf of pages and post.
 * [Analog Templates for Elementor](https://wordpress.org/plugins/analogwp-templates/) - A handcrafted design library for Elementor templates.
+* [Layouts for Elementor](https://wordpress.org/plugins/layouts-for-elementor/) - Beautifully designed, Free templates, Handcrafted for popular Elementor page builder.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
