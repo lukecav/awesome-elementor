@@ -112,6 +112,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [PDF Generator Addon for Elementor Page Builder](https://wordpress.org/plugins/pdf-generator-addon-for-elementor-page-builder/) - Pdf Generator Addon for Wordpress Elementor Page Builder allows to create pdf of pages and post.
 * [Analog Templates for Elementor](https://wordpress.org/plugins/analogwp-templates/) - A handcrafted design library for Elementor templates.
 * [Layouts for Elementor](https://wordpress.org/plugins/layouts-for-elementor/) - Beautifully designed, Free templates, Handcrafted for popular Elementor page builder.
+* [Advanced Card Widget for Elementor](https://wordpress.org/plugins/happy-elementor-card/) - Most intuitive and feature rich card widget for Elementor to make your life easy and happy.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
