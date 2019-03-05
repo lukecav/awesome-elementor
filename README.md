@@ -114,6 +114,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Layouts for Elementor](https://wordpress.org/plugins/layouts-for-elementor/) - Beautifully designed, Free templates, Handcrafted for popular Elementor page builder.
 * [Advanced Card Widget for Elementor](https://wordpress.org/plugins/happy-elementor-card/) - Most intuitive and feature rich card widget for Elementor to make your life easy and happy.
 * [WPForms Widget For Elementor Page Builder](https://wordpress.org/plugins/ht-wpform/) - The WPForms Widget Elementor is a Elementor addons for WordPress.
+* [Logic Hop Personalization for Elementor Add-on](https://wordpress.org/plugins/logic-hop-personalization-for-elementor-add-on/) - The Logic Hop Personalization for Elementor Add-on brings the power of personalization to WordPress with Elementor.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
