@@ -117,6 +117,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Logic Hop Personalization for Elementor Add-on](https://wordpress.org/plugins/logic-hop-personalization-for-elementor-add-on/) - The Logic Hop Personalization for Elementor Add-on brings the power of personalization to WordPress with Elementor.
 * [Happy Addons For Elementor](https://wordpress.org/plugins/happy-elementor-addons/) - Best Addons for Elementor.
 * [Inspirelite Addons For Elementor](https://wordpress.org/plugins/inspirelite-addons-for-elementor/) - Buttons variation for Elementor page builder widgets.
+* [WPB Elementor Addons](https://wordpress.org/plugins/wpb-elementor-addons/) -  Highly customizable addons for Elementor page builder. 
+* [HT Newsletter for Elementor](https://wordpress.org/plugins/ht-newsletter-for-elementor/) - The HT Newsletter for Elementor is a Elementor addon for WordPress.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
