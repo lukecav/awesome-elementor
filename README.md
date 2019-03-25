@@ -119,6 +119,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Inspirelite Addons For Elementor](https://wordpress.org/plugins/inspirelite-addons-for-elementor/) - Buttons variation for Elementor page builder widgets.
 * [WPB Elementor Addons](https://wordpress.org/plugins/wpb-elementor-addons/) -  Highly customizable addons for Elementor page builder. 
 * [HT Newsletter for Elementor](https://wordpress.org/plugins/ht-newsletter-for-elementor/) - The HT Newsletter for Elementor is a Elementor addon for WordPress.
+* [HT Slider For Elementor](https://wordpress.org/plugins/ht-slider-for-elementor/) - The Slider is a Elementor addons for WordPress.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
