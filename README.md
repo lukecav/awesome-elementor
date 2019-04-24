@@ -124,6 +124,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Exclusive Addons for Elementor](https://wordpress.org/plugins/exclusive-addons-for-elementor/) - Packed with a bunch of Exclusively designed widget for Elementor.
 * [Clever Mega Menu for Elementor]https://wordpress.org/plugins/clever-mega-menu-for-elementor/) - With ease of visual editing from Elementor Page Builder, Clever Mega Menu for Elementor helps you make stunning navigation menus easily without any coding knowledge.
 * [Hub Tag Add-ons Elementor](https://wordpress.org/plugins/hubtag-addons-elementor/) - The ultimate elements library for Elementor page builder plugin for WordPress.
+* [Make Column Clickable Elementor](https://wordpress.org/plugins/make-column-clickable-elementor/) - Simple: allow users to click in the whole column instead of individual elements.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
