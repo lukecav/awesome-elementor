@@ -126,6 +126,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Hub Tag Add-ons Elementor](https://wordpress.org/plugins/hubtag-addons-elementor/) - The ultimate elements library for Elementor page builder plugin for WordPress.
 * [Make Column Clickable Elementor](https://wordpress.org/plugins/make-column-clickable-elementor/) - Simple: allow users to click in the whole column instead of individual elements.
 * [Multidomain support for Elementor](https://wordpress.org/plugins/multidomain-support-for-elementor/) - This plugin will help those who have a Multilanguage website with a multi-domain structure, the plugin will add to Elementor Page Builder the support for multi-domains structure.
+* [Advamentor](https://wordpress.org/plugins/advamentor/) - Premium & Advanced Essential Elements for Elementor.
 
 ## Themes which work well with Elementor
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
