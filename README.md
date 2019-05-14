@@ -129,6 +129,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Advamentor](https://wordpress.org/plugins/advamentor/) - Premium & Advanced Essential Elements for Elementor.
 
 ## Themes which work well with Elementor
+* [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
 * [Astra](https://wordpress.org/themes/astra/) - Astra is the fastest, fully customizable & beautiful theme suitable for blogs, personal portfolios and business websites.
 * [Astra Child Theme](https://github.com/brainstormforce/astra-child) - Child theme for Astra Theme, a very lightweight and beautiful theme made to work with Page Builders.
