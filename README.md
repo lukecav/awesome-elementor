@@ -128,6 +128,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Multidomain support for Elementor](https://wordpress.org/plugins/multidomain-support-for-elementor/) - This plugin will help those who have a Multilanguage website with a multi-domain structure, the plugin will add to Elementor Page Builder the support for multi-domains structure.
 * [Advamentor](https://wordpress.org/plugins/advamentor/) - Premium & Advanced Essential Elements for Elementor.
 * [HMH Footer Builder For Elementor](https://wordpress.org/plugins/hmh-footer-builder-for-elementor/) - Easy way to create any footers you can imagine.
+* [Sendy Elements](https://wordpress.org/plugins/inboundlatino-sendy-elements/) - Plugin to extend Elementor forms with Sendy.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
