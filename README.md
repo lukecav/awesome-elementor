@@ -132,6 +132,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Table Addons for Elementor](https://wordpress.org/plugins/table-addons-for-elementor/) - Table extension for Elementor page builder.
 * [Elementor Post Grid](https://wordpress.org/plugins/pgggo/) - Create Grid layout for posts, pages & custom post types. Unlimited design possiblites.
 * [Column Stretch for Elementor](https://wordpress.org/plugins/column-stretch-elementor/) - An Elementor extension to easily stretch columns to left or right.
+* [Global Elementor Buttons](https://wordpress.org/plugins/global-elementor-buttons/) - Standarizes the Elementor buttons with global classes that can be managed in a single place with custom css.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
