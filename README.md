@@ -134,6 +134,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Column Stretch for Elementor](https://wordpress.org/plugins/column-stretch-elementor/) - An Elementor extension to easily stretch columns to left or right.
 * [Global Elementor Buttons](https://wordpress.org/plugins/global-elementor-buttons/) - Standarizes the Elementor buttons with global classes that can be managed in a single place with custom css.
 * [Contact Widgets For Elementor](https://wordpress.org/plugins/contact-widgets-for-elementor/) - Add contact widgets to the popular free page builder Elementor.
+* [Advanced Addons for Elementor](https://wordpress.org/plugins/advanced-addons-for-elementor/) - The most advanced collection of Elementor page builder widgets.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
