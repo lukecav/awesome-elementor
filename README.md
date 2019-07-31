@@ -136,6 +136,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Contact Widgets For Elementor](https://wordpress.org/plugins/contact-widgets-for-elementor/) - Add contact widgets to the popular free page builder Elementor.
 * [Advanced Addons for Elementor](https://wordpress.org/plugins/advanced-addons-for-elementor/) - The most advanced collection of Elementor page builder widgets.
 * [Elementor Parallax Effects Addon](https://wordpress.org/plugins/startup-gym-elementor-parallax-section-effect/) - his addon for Elementor live page builder allowing to apply parallax effect for the section background, apply multi-layered parallax with different behavior triggers, animation types and positioning.
+* [Dynamic Elementor Addons](https://wordpress.org/plugins/dynamic-elementor-addons/) - Dynamic Elementor Addons focuses on displaying your posts in Elementor instead of using Elementor’s default display post.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
