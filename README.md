@@ -138,6 +138,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elementor Parallax Effects Addon](https://wordpress.org/plugins/startup-gym-elementor-parallax-section-effect/) - his addon for Elementor live page builder allowing to apply parallax effect for the section background, apply multi-layered parallax with different behavior triggers, animation types and positioning.
 * [Dynamic Elementor Addons](https://wordpress.org/plugins/dynamic-elementor-addons/) - Dynamic Elementor Addons focuses on displaying your posts in Elementor instead of using Elementor’s default display post.
 * [News Ticker for Elementor](https://wordpress.org/plugins/news-ticker-for-elementor/) - News icker for Elementor lets you add news ticker with the Elementor Page builder.You can use any of  your blog post as news ticker. You can also add custom texts as as news ticker. There is no limitation, so you can add unlimited numbers of news ticker with this plugin.
+* [Drozd](https://wordpress.org/plugins/drozd-addons-for-elementor/) - Set of additional elements for Elementor Page Builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
