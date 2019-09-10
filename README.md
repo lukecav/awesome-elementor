@@ -140,6 +140,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [News Ticker for Elementor](https://wordpress.org/plugins/news-ticker-for-elementor/) - News icker for Elementor lets you add news ticker with the Elementor Page builder.You can use any of  your blog post as news ticker. You can also add custom texts as as news ticker. There is no limitation, so you can add unlimited numbers of news ticker with this plugin.
 * [Drozd](https://wordpress.org/plugins/drozd-addons-for-elementor/) - Set of additional elements for Elementor Page Builder.
 * [Builder Shortcode Extras](https://wordpress.org/plugins/builder-shortcode-extras/) - A collection of totally useful extra Shortcodes to make the life of Site Builders more easy.
+* [Builder Template Categories](https://wordpress.org/plugins/builder-template-categories/) - This plugin adds a Taxonomy "Template Category" for categorizing templates to make the life of site builders a little bit easier.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
