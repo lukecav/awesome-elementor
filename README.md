@@ -141,6 +141,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Drozd](https://wordpress.org/plugins/drozd-addons-for-elementor/) - Set of additional elements for Elementor Page Builder.
 * [Builder Shortcode Extras](https://wordpress.org/plugins/builder-shortcode-extras/) - A collection of totally useful extra Shortcodes to make the life of Site Builders more easy.
 * [Builder Template Categories](https://wordpress.org/plugins/builder-template-categories/) - This plugin adds a Taxonomy "Template Category" for categorizing templates to make the life of site builders a little bit easier.
+* [Elementor CPT Magic Tool](https://wordpress.org/plugins/cpt-magic-tool-addons-for-elementor/) - Elementor addon for add Custom post type fields add in to page or post. You can add both ACFs & PODs plugin fields
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
