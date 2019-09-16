@@ -143,6 +143,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Builder Template Categories](https://wordpress.org/plugins/builder-template-categories/) - This plugin adds a Taxonomy "Template Category" for categorizing templates to make the life of site builders a little bit easier.
 * [Elementor CPT Magic Tool](https://wordpress.org/plugins/cpt-magic-tool-addons-for-elementor/) - Elementor addon for add Custom post type fields add in to page or post. You can add both ACFs & PODs plugin fields.
 * [Dynamic Conditions](https://wordpress.org/plugins/dynamicconditions/) - Activates conditions for dynamic tags to show/hides a widget.
+* [Product Category Slider for Elementor](https://wordpress.org/plugins/woo-category-slider-for-elementor/) - WooCommerce Category Slider elementor helps you display WooCommerce Categories aesthetically in a nice sliding manner.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
