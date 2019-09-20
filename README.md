@@ -144,7 +144,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elementor CPT Magic Tool](https://wordpress.org/plugins/cpt-magic-tool-addons-for-elementor/) - Elementor addon for add Custom post type fields add in to page or post. You can add both ACFs & PODs plugin fields.
 * [Dynamic Conditions](https://wordpress.org/plugins/dynamicconditions/) - Activates conditions for dynamic tags to show/hides a widget.
 * [Product Category Slider for Elementor](https://wordpress.org/plugins/woo-category-slider-for-elementor/) - WooCommerce Category Slider elementor helps you display WooCommerce Categories aesthetically in a nice sliding manner.
-* [ACF Frontend Form Element](https://wordpress.org/plugins/acf-frontend-form-element/) - An ACF and Elementor extension that allows you to easily display ACF frontend forms on your site so your clients can easily edit the content by themselves from the frontend.
+* [Master Addons for Elementor](https://wordpress.org/plugins/master-addons/) - Master Addons is easy and must have Elementor Addons for WordPress Page Builder. Clean, Modern, Hand crafted designed Addons blocks.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
