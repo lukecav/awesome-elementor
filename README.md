@@ -157,6 +157,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Actions](https://wordpress.org/themes/actions/) - Simple, clean and actionable WordPress theme built around Actions. Supports a left or right sidebar, full width narrow as well as full width wide modes.
 * [Tiny Hestia](https://wordpress.org/themes/tiny-hestia/) - Tiny Hestia is a child theme for blogging enthusiasts and for page builders fans. 
 * [Easy SEO Toolkit](https://wordpress.org/plugins/easy-seo-toolkit/) - Add keywords, Meta Titles and Meta Descriptions right from your Elementor Page Settings panel.
+* [Element Pack Lite Addon for Elementor](https://wordpress.org/plugins/bdthemes-element-pack-lite/) - Element Pack is a packed of elementor widget. This plugin gives you extra widgets features for elementor page builder plugin.
 
 ## Elementor Performance
 * [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
