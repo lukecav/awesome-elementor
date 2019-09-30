@@ -159,6 +159,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Easy SEO Toolkit](https://wordpress.org/plugins/easy-seo-toolkit/) - Add keywords, Meta Titles and Meta Descriptions right from your Elementor Page Settings panel.
 * [Element Pack Lite Addon for Elementor](https://wordpress.org/plugins/bdthemes-element-pack-lite/) - Element Pack is a packed of elementor widget. This plugin gives you extra widgets features for elementor page builder plugin.
 * [Download Button for Elementor](https://wordpress.org/plugins/download-button-for-elementor/) - A simple download button with the ability to choose a file from the media library.
+* [WunderWp](https://wordpress.org/plugins/wunderwp/) - Apply preset styling to Elementor widgets and beautify your content in seconds.
 
 ## Elementor Performance
 * [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
