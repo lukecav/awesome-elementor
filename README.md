@@ -145,6 +145,11 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Dynamic Conditions](https://wordpress.org/plugins/dynamicconditions/) - Activates conditions for dynamic tags to show/hides a widget.
 * [Product Category Slider for Elementor](https://wordpress.org/plugins/woo-category-slider-for-elementor/) - WooCommerce Category Slider elementor helps you display WooCommerce Categories aesthetically in a nice sliding manner.
 * [Master Addons for Elementor](https://wordpress.org/plugins/master-addons/) - Master Addons is easy and must have Elementor Addons for WordPress Page Builder. Clean, Modern, Hand crafted designed Addons blocks.
+* [Easy SEO Toolkit](https://wordpress.org/plugins/easy-seo-toolkit/) - Add keywords, Meta Titles and Meta Descriptions right from your Elementor Page Settings panel.
+* [Element Pack Lite Addon for Elementor](https://wordpress.org/plugins/bdthemes-element-pack-lite/) - Element Pack is a packed of elementor widget. This plugin gives you extra widgets features for elementor page builder plugin.
+* [Download Button for Elementor](https://wordpress.org/plugins/download-button-for-elementor/) - A simple download button with the ability to choose a file from the media library.
+* [WunderWp](https://wordpress.org/plugins/wunderwp/) - Apply preset styling to Elementor widgets and beautify your content in seconds.
+* [Remote site posts For Elementor](https://wordpress.org/plugins/remote-site-posts-for-elementor/) - Displays remote site posts in the Elementor page.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
@@ -156,10 +161,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Base Theme](https://www.sitepoint.com/basetheme/) - Minimal. Clean. Simple. Lightweight. Responsive.
 * [Actions](https://wordpress.org/themes/actions/) - Simple, clean and actionable WordPress theme built around Actions. Supports a left or right sidebar, full width narrow as well as full width wide modes.
 * [Tiny Hestia](https://wordpress.org/themes/tiny-hestia/) - Tiny Hestia is a child theme for blogging enthusiasts and for page builders fans. 
-* [Easy SEO Toolkit](https://wordpress.org/plugins/easy-seo-toolkit/) - Add keywords, Meta Titles and Meta Descriptions right from your Elementor Page Settings panel.
-* [Element Pack Lite Addon for Elementor](https://wordpress.org/plugins/bdthemes-element-pack-lite/) - Element Pack is a packed of elementor widget. This plugin gives you extra widgets features for elementor page builder plugin.
-* [Download Button for Elementor](https://wordpress.org/plugins/download-button-for-elementor/) - A simple download button with the ability to choose a file from the media library.
-* [WunderWp](https://wordpress.org/plugins/wunderwp/) - Apply preset styling to Elementor widgets and beautify your content in seconds.
 
 ## Elementor Performance
 * [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
