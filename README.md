@@ -150,6 +150,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Download Button for Elementor](https://wordpress.org/plugins/download-button-for-elementor/) - A simple download button with the ability to choose a file from the media library.
 * [WunderWp](https://wordpress.org/plugins/wunderwp/) - Apply preset styling to Elementor widgets and beautify your content in seconds.
 * [Remote site posts For Elementor](https://wordpress.org/plugins/remote-site-posts-for-elementor/) - Displays remote site posts in the Elementor page.
+* [Blogmentor](https://wordpress.org/plugins/blogmentor/) - Showcase WordPress posts in beautiful ways with Elementor page builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
