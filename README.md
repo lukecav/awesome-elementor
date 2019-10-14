@@ -154,6 +154,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Prime Slider Lite Addons for Elementor](https://wordpress.org/plugins/bdthemes-prime-slider-lite/) - Prime Slider is a packed of elementor widget that gives you some awesome header and slider for your website.
 * [Next MegaMenu Builder for Elementor](https://wordpress.org/plugins/next-megamenu/) - The most Advanced MegaMenu for Elementor.
 * [Events Addon for Elementor](https://wordpress.org/plugins/events-addon-for-elementor/) - Events Addon for Elementor covers all the must-needed elements for creating a perfect Event website using Elementor Page Builder.
+* [Ruvuv Extension for Elementor](https://wordpress.org/plugins/ruvuv-extension-for-elementor/) - Extended Visual Functionality Add-on for Elementor Page Builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
