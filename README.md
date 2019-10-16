@@ -155,6 +155,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Next MegaMenu Builder for Elementor](https://wordpress.org/plugins/next-megamenu/) - The most Advanced MegaMenu for Elementor.
 * [Events Addon for Elementor](https://wordpress.org/plugins/events-addon-for-elementor/) - Events Addon for Elementor covers all the must-needed elements for creating a perfect Event website using Elementor Page Builder.
 * [Ruvuv Extension for Elementor](https://wordpress.org/plugins/ruvuv-extension-for-elementor/) - Extended Visual Functionality Add-on for Elementor Page Builder.
+* [Custom Builder for Elementor and WooCommerce](https://wordpress.org/plugins/custom-woo-builder-for-elementor/) - This addon Elementor Woocommerce  builder for Your perfect asset in creating WooCommerce page templates using loads of special widgets & stylish page layouts.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
