@@ -157,6 +157,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Ruvuv Extension for Elementor](https://wordpress.org/plugins/ruvuv-extension-for-elementor/) - Extended Visual Functionality Add-on for Elementor Page Builder.
 * [Custom Builder for Elementor and WooCommerce](https://wordpress.org/plugins/custom-woo-builder-for-elementor/) - This addon Elementor Woocommerce  builder for Your perfect asset in creating WooCommerce page templates using loads of special widgets & stylish page layouts.
 * [DataMentor](https://wordpress.org/plugins/datamentor/) - This plugin is used to insert data table using Elementor editor.
+* [Safan Addons For Elementor](https://wordpress.org/plugins/safan-addons/) - Content Block Widget for Elementor Page Builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
