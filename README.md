@@ -159,6 +159,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [DataMentor](https://wordpress.org/plugins/datamentor/) - This plugin is used to insert data table using Elementor editor.
 * [Safan Addons For Elementor](https://wordpress.org/plugins/safan-addons/) - Content Block Widget for Elementor Page Builder.
 * [RS Elements Elementor Addon](https://wordpress.org/plugins/rselements-lite/) - RS Elementor Addon is the most advanced frontend drag & drop page builder addon. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
+* [Multiple Map Marker For Elementor Page Builder](https://wordpress.org/plugins/map-multiple-marker/) - An Extended of Elementor Google Map Widget - Easily add multiple address pins onto the same map with support for different map types (Road Map/Satellite/Hybrid/Terrain) and custom map style. Freely edit info window content of your pins with the standard Elementor text editor. And many more custom map options.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
