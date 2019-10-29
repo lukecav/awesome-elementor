@@ -162,6 +162,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Multiple Map Marker For Elementor Page Builder](https://wordpress.org/plugins/map-multiple-marker/) - An Extended of Elementor Google Map Widget - Easily add multiple address pins onto the same map with support for different map types (Road Map/Satellite/Hybrid/Terrain) and custom map style. Freely edit info window content of your pins with the standard Elementor text editor. And many more custom map options.
 * [Mighty Addons for Elementor](https://wordpress.org/plugins/mighty-addons/) - Addons for elementor by MightyThemes.
 * [Magical Addons For Elementor](https://wordpress.org/plugins/magical-addons-for-elementor/) - Magical Addons For Elementor.
+* [Header Footer Composer for Elementor](https://wordpress.org/plugins/header-footer-composer/) - Design custom headers and footers for your site using Elementor Page builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
