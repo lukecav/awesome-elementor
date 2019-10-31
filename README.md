@@ -163,6 +163,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Mighty Addons for Elementor](https://wordpress.org/plugins/mighty-addons/) - Addons for elementor by MightyThemes.
 * [Magical Addons For Elementor](https://wordpress.org/plugins/magical-addons-for-elementor/) - Magical Addons For Elementor.
 * [Header Footer Composer for Elementor](https://wordpress.org/plugins/header-footer-composer/) - Design custom headers and footers for your site using Elementor Page builder.
+* [And IT Portfolio for Elementor](https://wordpress.org/plugins/and-it-portfolio-for-elementor/) - Build your portfolio using Elementor Plugin.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
