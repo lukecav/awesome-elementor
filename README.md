@@ -164,6 +164,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Magical Addons For Elementor](https://wordpress.org/plugins/magical-addons-for-elementor/) - Magical Addons For Elementor.
 * [Header Footer Composer for Elementor](https://wordpress.org/plugins/header-footer-composer/) - Design custom headers and footers for your site using Elementor Page builder.
 * [And IT Portfolio for Elementor](https://wordpress.org/plugins/and-it-portfolio-for-elementor/) - Build your portfolio using Elementor Plugin.
+* [Post Grid Builder Addon for Elementor](https://wordpress.org/plugins/post-grid-builder-addon-for-elementor/) - Create Grid layout for posts, pages & custom post types. Unlimited design possiblites, supports custom fields as well.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
