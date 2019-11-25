@@ -166,6 +166,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [And IT Portfolio for Elementor](https://wordpress.org/plugins/and-it-portfolio-for-elementor/) - Build your portfolio using Elementor Plugin.
 * [Post Grid Builder Addon for Elementor](https://wordpress.org/plugins/post-grid-builder-addon-for-elementor/) - Create Grid layout for posts, pages & custom post types. Unlimited design possiblites, supports custom fields as well.
 * [Happy Elementor Addons](https://wordpress.org/plugins/happy-elementor-addons/) - HappyAddons is a collection of slick, powerful widgets that works seamlessly with Elementor page builder. It's trendy look with detail customization features allows to create extraordinary designs instantly. HappyAddons is free, rapidly growing and comes with great support.
+* [Extensions For Elementor](https://wordpress.org/plugins/extensions-for-elementor/) - Extend your elementor capability by adding elementor extension.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
