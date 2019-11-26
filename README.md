@@ -169,6 +169,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Extensions For Elementor](https://wordpress.org/plugins/extensions-for-elementor/) - Extend your elementor capability by adding elementor extension.
 * [Events Tracker for Elementor](https://wordpress.org/plugins/events-tracker-for-elementor/) - Track Click or Submit events and conversions for any Elementor widget with Google Analytics, Facebook, Yandex Metrika, Vkontakte.
 * [Debug Bar Elementor](https://wordpress.org/plugins/debug-bar-elementor/) - Output debug information regarding elementor on a page such as elements and performance data.
+* [WPHobby Addons for Elementor](https://wordpress.org/plugins/wphobby-addons-for-elementor/) - Ultimate addons package for Elementor page builder plugin for WordPress.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
