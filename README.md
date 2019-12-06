@@ -171,6 +171,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Debug Bar Elementor](https://wordpress.org/plugins/debug-bar-elementor/) - Output debug information regarding elementor on a page such as elements and performance data.
 * [WPHobby Addons for Elementor](https://wordpress.org/plugins/wphobby-addons-for-elementor/) - Ultimate addons package for Elementor page builder plugin for WordPress.
 * [User Frontend for Elementor](https://wordpress.org/plugins/user-frontend-for-elementor/) - Create full featured admin panel/dashboard for the frontend.
+* [Advanced Post Queries for Elementor](https://wordpress.org/plugins/advanced-post-queries/) - An Elementor extension that gives you more options for quering your posts widget without coding.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
