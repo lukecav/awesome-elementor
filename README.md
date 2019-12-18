@@ -173,6 +173,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [User Frontend for Elementor](https://wordpress.org/plugins/user-frontend-for-elementor/) - Create full featured admin panel/dashboard for the frontend.
 * [Advanced Post Queries for Elementor](https://wordpress.org/plugins/advanced-post-queries/) - An Elementor extension that gives you more options for quering your posts widget without coding.
 * [PDF viewer for Elementor](https://wordpress.org/plugins/pdf-viewer-for-elementor/) - This plugin helps you embed PDF documents to Elementor quickly and easily.
+* [Post Kits for Elementor](https://wordpress.org/plugins/post-kits-for-elementor/) - News, Magazine, Blog Kits for Elementor plugin.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
