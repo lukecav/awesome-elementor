@@ -175,6 +175,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [PDF viewer for Elementor](https://wordpress.org/plugins/pdf-viewer-for-elementor/) - This plugin helps you embed PDF documents to Elementor quickly and easily.
 * [Post Kits for Elementor](https://wordpress.org/plugins/post-kits-for-elementor/) - News, Magazine, Blog Kits for Elementor plugin.
 * [Smart Addons for Elementor](https://wordpress.org/plugins/smart-addons-for-elementor/) - Packed with a bunch of Smart designed widget for Elementor.
+* [News Ticker Widget for Elementor](https://wordpress.org/plugins/news-ticker-widget-for-elementor/) - It showcases your most recent posts in a ticker style.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
