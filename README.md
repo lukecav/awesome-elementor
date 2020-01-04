@@ -178,6 +178,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [News Ticker Widget for Elementor](https://wordpress.org/plugins/news-ticker-widget-for-elementor/) - It showcases your most recent posts in a ticker style.
 * [Awesome Addons for Elementor Page Builder](https://wordpress.org/plugins/awesome-addons/) - Awesome Addons for Elementor page builder. which is allows you to install lot of different style elements block to your website.
 * [ElementPress](https://wordpress.org/plugins/elementpress/) - The most advanced addons for Elementor.
+* [Gist for Elementor](https://wordpress.org/plugins/gist-for-elementor/) - Plugin to extend Elementor forms with Gist.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
