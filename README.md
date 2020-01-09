@@ -180,6 +180,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [ElementPress](https://wordpress.org/plugins/elementpress/) - The most advanced addons for Elementor.
 * [Gist for Elementor](https://wordpress.org/plugins/gist-for-elementor/) - Plugin to extend Elementor forms with Gist.
 * [Medical Addon for Elementor](https://wordpress.org/plugins/medical-addon-for-elementor/) - Medical Addon for Elementor covers all the must-needed elements for creating a perfect Medical website using Elementor Page Builder. 35+ Unique & Basic Elementor widget covers all of the Medical elements.
+* [myCred Elementor](https://wordpress.org/plugins/mycred-for-elementor/) - Adds all myCRED shortcodes to Elementor.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
