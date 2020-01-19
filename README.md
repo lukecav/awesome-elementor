@@ -184,6 +184,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Booster Addons – Creative Elementor Bundle](https://wordpress.org/plugins/booster-for-elementor/) - Boost your Elementor page builder by using the advanced Booster Addons widgets bundle.
 * [Material Design Icons for Elementor](https://wordpress.org/plugins/material-design-icons-for-elementor/) - Google Material Design Icons for Elementor Icons Control.
 * [Charts and Graphs for Elementor](https://wordpress.org/plugins/charts-and-graphs-for-elementor/) - Create beautiful, interactive charts with Graphs & Charts.
+* [Post Carousel Slider for Elementor](https://wordpress.org/plugins/post-carousel-slider-for-elementor/) - Post Carousel Slider for Elementor Lets you display your WordPress Posts as Carousel Slider. You can now show your posts using this plugin easily to your users as a Carousel Slider.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
