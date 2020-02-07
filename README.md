@@ -187,6 +187,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Post Carousel Slider for Elementor](https://wordpress.org/plugins/post-carousel-slider-for-elementor/) - Post Carousel Slider for Elementor Lets you display your WordPress Posts as Carousel Slider. You can now show your posts using this plugin easily to your users as a Carousel Slider.
 * [Posterno – Elementor](https://wordpress.org/plugins/posterno-elementor/) - Visually build your listings directory website with Posterno and Elementor.
 * [Eleddon – Elementor Addons](https://wordpress.org/plugins/eleddon/) - Eledddon is a elementor page builder addon.
+* [Mask Form Elementor](https://wordpress.org/plugins/mask-form-elementor/) - Plugin to add a mask to the Elementor Pro form.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
