@@ -188,6 +188,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Posterno – Elementor](https://wordpress.org/plugins/posterno-elementor/) - Visually build your listings directory website with Posterno and Elementor.
 * [Eleddon – Elementor Addons](https://wordpress.org/plugins/eleddon/) - Eledddon is a elementor page builder addon.
 * [Mask Form Elementor](https://wordpress.org/plugins/mask-form-elementor/) - Plugin to add a mask to the Elementor Pro form.
+* [Elementor Syntax Highlighter](https://wordpress.org/plugins/syntax-highlighter-for-elementor/) - An Elementor Syntax Highlighter Widget built with PrismJS.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
