@@ -189,6 +189,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Eleddon – Elementor Addons](https://wordpress.org/plugins/eleddon/) - Eledddon is a elementor page builder addon.
 * [Mask Form Elementor](https://wordpress.org/plugins/mask-form-elementor/) - Plugin to add a mask to the Elementor Pro form.
 * [Elementor Syntax Highlighter](https://wordpress.org/plugins/syntax-highlighter-for-elementor/) - An Elementor Syntax Highlighter Widget built with PrismJS.
+* [FAQ Schema for Elementor](https://wordpress.org/plugins/faq-schema-for-elementor/) - Adds an Elementor widget that inserts FAQ schema (structured data) in JSON-LD format.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
