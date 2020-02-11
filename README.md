@@ -191,6 +191,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elementor Syntax Highlighter](https://wordpress.org/plugins/syntax-highlighter-for-elementor/) - An Elementor Syntax Highlighter Widget built with PrismJS.
 * [FAQ Schema for Elementor](https://wordpress.org/plugins/faq-schema-for-elementor/) - Adds an Elementor widget that inserts FAQ schema (structured data) in JSON-LD format.
 * [Lazy Load Elementor Background Images](https://wordpress.org/plugins/lazy-load-background-images-for-elementor/) - Improve site performance, reduce initial bandwidth payload, reduce HTTP requests and boost GTMetrix/Pingdom/Google Pagespeed Insights scores by lazy loading Elementor section and column image backgrounds.
+* [Header Builder for Elementor by WPDaddy](https://wordpress.org/plugins/wpdaddy-header-builder/) - WPDaddy header builder is a visual front-end drag & drop builder for WordPress Elementor plugin.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
