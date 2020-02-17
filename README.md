@@ -193,6 +193,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Lazy Load Elementor Background Images](https://wordpress.org/plugins/lazy-load-background-images-for-elementor/) - Improve site performance, reduce initial bandwidth payload, reduce HTTP requests and boost GTMetrix/Pingdom/Google Pagespeed Insights scores by lazy loading Elementor section and column image backgrounds.
 * [Header Builder for Elementor by WPDaddy](https://wordpress.org/plugins/wpdaddy-header-builder/) - WPDaddy header builder is a visual front-end drag & drop builder for WordPress Elementor plugin.
 * [Elementor Timeline Widget Addon](https://wordpress.org/plugins/timeline-widget-addon-for-elementor/) - Timeline Widget Addon For Elementor create a beautiful timeline in  page and post.
+* [Wooaddons For Elementor](https://wordpress.org/plugins/wooaddons-for-elementor/) - Awesome Elementor page builder addons for woocommerce.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
