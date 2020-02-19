@@ -194,6 +194,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Header Builder for Elementor by WPDaddy](https://wordpress.org/plugins/wpdaddy-header-builder/) - WPDaddy header builder is a visual front-end drag & drop builder for WordPress Elementor plugin.
 * [Elementor Timeline Widget Addon](https://wordpress.org/plugins/timeline-widget-addon-for-elementor/) - Timeline Widget Addon For Elementor create a beautiful timeline in  page and post.
 * [Wooaddons For Elementor](https://wordpress.org/plugins/wooaddons-for-elementor/) - Awesome Elementor page builder addons for woocommerce.
+* [Animentor – Lottie & Bodymovin for Elementor](https://wordpress.org/plugins/animentor-lottie-bodymovin-elementor/) - An Elementor extension that adds a widget for Lottie animations.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
