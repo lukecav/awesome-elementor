@@ -198,6 +198,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elfsight Addons for Elementor](https://wordpress.org/plugins/elfsight-addons-for-elementor/) - Elfsight Addons includes 50+ widgets for Elementor Page Builder.
 * [Payments for Elementor](https://wordpress.org/plugins/payments-for-elementor/) - Add Stripe payment forms from right within Elementor.
 * [Sidebars for Hello Elementor Theme](https://wordpress.org/plugins/sidebars-for-helloelementortheme/) - 6 responsive sidebars for just about everything you need to use anywhere within your website built using Elementor and Hello Elementor theme.
+* [Addons for Elementor – Stax](https://wordpress.org/plugins/stax-addons-for-elementor/) - Premium quality widgets for Elementor. Enhance your site building experience with Stax Addons for Elementor.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
