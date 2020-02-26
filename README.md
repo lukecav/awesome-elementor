@@ -199,7 +199,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Payments for Elementor](https://wordpress.org/plugins/payments-for-elementor/) - Add Stripe payment forms from right within Elementor.
 * [Sidebars for Hello Elementor Theme](https://wordpress.org/plugins/sidebars-for-helloelementortheme/) - 6 responsive sidebars for just about everything you need to use anywhere within your website built using Elementor and Hello Elementor theme.
 * [Addons for Elementor – Stax](https://wordpress.org/plugins/stax-addons-for-elementor/) - Premium quality widgets for Elementor. Enhance your site building experience with Stax Addons for Elementor.
-
+* [Woolementor](https://wordpress.org/plugins/woolementor/) - Woolementor connects the #1 page builder plugin on the earth, Elementor with the most popular eCommerce plugin, WooCommerce.
+  
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
