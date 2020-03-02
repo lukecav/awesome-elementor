@@ -201,6 +201,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Addons for Elementor – Stax](https://wordpress.org/plugins/stax-addons-for-elementor/) - Premium quality widgets for Elementor. Enhance your site building experience with Stax Addons for Elementor.
 * [Woolementor](https://wordpress.org/plugins/woolementor/) - Woolementor connects the #1 page builder plugin on the earth, Elementor with the most popular eCommerce plugin, WooCommerce.
 * [Portfolio Widgets for Elementor](https://wordpress.org/plugins/portfolio-widgets-for-elementor/) - Codeless Elementor Portfolio Widgets offer the possibility to add Portfolio Widget to your Elementor WordPress Website.
+* [Templately – Templates Cloud for Elementor & Gutenberg](https://wordpress.org/plugins/templately/ - Ultimate Templates Cloud for WordPress.
   
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
