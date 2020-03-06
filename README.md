@@ -203,6 +203,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Portfolio Widgets for Elementor](https://wordpress.org/plugins/portfolio-widgets-for-elementor/) - Codeless Elementor Portfolio Widgets offer the possibility to add Portfolio Widget to your Elementor WordPress Website.
 * [Templately – Templates Cloud for Elementor & Gutenberg](https://wordpress.org/plugins/templately/) - Ultimate Templates Cloud for WordPress.
 * [Hero for Elementor](https://wordpress.org/plugins/hero-section-for-elementor/) - With Hero section for Elementor Plugin you can add a beautifull hero section of your website.
+* [Stratum]https://wordpress.org/plugins/stratum/) - Advanced Elementor addon to extend page builder capabilities and add more advanced features.
   
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
