@@ -204,8 +204,9 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Templately – Templates Cloud for Elementor & Gutenberg](https://wordpress.org/plugins/templately/) - Ultimate Templates Cloud for WordPress.
 * [Hero for Elementor](https://wordpress.org/plugins/hero-section-for-elementor/) - With Hero section for Elementor Plugin you can add a beautifull hero section of your website.
 * [Stratum](https://wordpress.org/plugins/stratum/) - Advanced Elementor addon to extend page builder capabilities and add more advanced features.
-* [Flux Elementor Addons](https://wordpress.org/plugins/stratum/) - Flux addons is the new free widget library for Elementor page builder users to design the business website more user-friendly.
-  
+* [Flux Elementor Addons](https://wordpress.org/plugins/flux-addons/) - Flux addons is the new free widget library for Elementor page builder users to design the business website more user-friendly.
+* [Rotate for Elementor](https://wordpress.org/plugins/rotate-for-elementor/) - Simply makes the elements rotate without writing a single line of code.
+
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
