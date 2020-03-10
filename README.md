@@ -207,6 +207,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Flux Elementor Addons](https://wordpress.org/plugins/flux-addons/) - Flux addons is the new free widget library for Elementor page builder users to design the business website more user-friendly.
 * [Rotate for Elementor](https://wordpress.org/plugins/rotate-for-elementor/) - Simply makes the elements rotate without writing a single line of code.
 * [AZ Video and Audio Player Addon for Elementor](https://wordpress.org/plugins/az-video-and-audio-player-addon-for-elementor/) - Video & Audio player addon for Elementor.
+* [OoohBoi Steroids for Elementor](https://wordpress.org/plugins/ooohboi-steroids-for-elementor/) - An awesome set of tools, options and settings that expand Elementor defaults. Instead of creating new Elementor Widgets, these act like an upgrade of existing options or the self-standing panels.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
