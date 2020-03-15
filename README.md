@@ -210,6 +210,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [OoohBoi Steroids for Elementor](https://wordpress.org/plugins/ooohboi-steroids-for-elementor/) - An awesome set of tools, options and settings that expand Elementor defaults. Instead of creating new Elementor Widgets, these act like an upgrade of existing options or the self-standing panels.
 * [Elements For Elementor](https://wordpress.org/plugins/nd-elements/) - The plugin adds some useful Elementor components that can be integrated very easily on your own theme.
 * [Blog Designer For Elementor](https://wordpress.org/plugins/blog-designer-for-elementor/) - Blog Designer Has been built for Elementor Page Builder. Blog Designer can be use with any theme from stores. you can design each and every part of the layout.
+* [Definitive Addons for Elementor](https://wordpress.org/plugins/definitive-addons-for-elementor/) - Advanced Widgets for Elementor Page Builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
