@@ -213,6 +213,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Definitive Addons for Elementor](https://wordpress.org/plugins/definitive-addons-for-elementor/) - Advanced Widgets for Elementor Page Builder.
 * [WP Templata – WordPress Template Library for Elementor](https://wordpress.org/plugins/wptemplata/) - Template library for Elementor page builder plugin for WordPress.
 * [Dragfy Addons for Elementor](https://wordpress.org/plugins/dragfy-addons-for-elementor/) -  A collection of premium quality addons or widgets for use in Elementor page builder. Elementor must be installed and activated.
+* [Gradient for Elementor](https://wordpress.org/plugins/gradient-for-elementor/) -  This plugin will let you have gradient text without using CSS.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
