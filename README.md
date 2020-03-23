@@ -215,6 +215,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Dragfy Addons for Elementor](https://wordpress.org/plugins/dragfy-addons-for-elementor/) -  A collection of premium quality addons or widgets for use in Elementor page builder. Elementor must be installed and activated.
 * [Gradient for Elementor](https://wordpress.org/plugins/gradient-for-elementor/) -  This plugin will let you have gradient text without using CSS.
 * [Restaurant & Cafe Addon for Elementor](https://wordpress.org/plugins/restaurant-cafe-addon-for-elementor/) -  Restaurant & Cafe Addon for Elementor covers all the must-needed elements for creating a perfect Restaurant website using Elementor Page Builder.
+* [ElementsKit Lite](https://wordpress.org/plugins/elementskit-lite/) -  The most advanced addons for Elementor with tons of widgets, Header builder, Footer builder, Mega menu builder, layout pack and powerful custom controls.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
