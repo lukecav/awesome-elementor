@@ -218,6 +218,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [ElementsKit Lite](https://wordpress.org/plugins/elementskit-lite/) -  The most advanced addons for Elementor with tons of widgets, Header builder, Footer builder, Mega menu builder, layout pack and powerful custom controls.
 * [CSS For Elementor](https://wordpress.org/plugins/css-for-elementor/) -  Get more customized Elementor widgets within seconds.
 * [Theme Builder For Elementor](https://wordpress.org/plugins/theme-builder-for-elementor/) -  Theme Builder For Elementor.
+* [Modern Addons for Elementor](https://wordpress.org/plugins/modern-addons-elementor/) -  Modern unique addon elements for Elementor page builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
