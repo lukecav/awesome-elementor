@@ -222,6 +222,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Pixer Necessary Addons For Elementor](https://wordpress.org/plugins/pixer-necessary-addons-for-elementor/) -  With Pixer Necessary Addons For Elementor Plugin you can add in beautifull sections for your website.
 * [Elementor Integrations](https://wordpress.org/plugins/integrations-for-elementor/) -  Custom actions for Elementor form widget.
 * [Extensions for Elementor Form](https://wordpress.org/plugins/extensions-for-elementor-form/) -  Extensions for Elementor Form create many actions and controls to Elementor Form. This plugin require the Elementor Pro (Form Widget).
+* [FancyNav – Elementor](https://wordpress.org/plugins/fancynav-elementor/) -  Mobile Navigation Widget for Elementor.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
