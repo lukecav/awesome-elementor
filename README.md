@@ -226,6 +226,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Footer Design For Elementor](https://wordpress.org/plugins/footer-design-for-elementor/) -  Design the footer you want easily.
 * [AnWP Post Grid for Elementor](https://wordpress.org/plugins/anwp-post-grid-for-elementor/) -  Create and manage your own.
 * [EleBuilder](https://wordpress.org/plugins/widget-builder-for-elementor/) -  Create and build your own Elementor widgets without writing any code.
+* [Woo Addons for Elementor](https://wordpress.org/plugins/stax-woo-addons-for-elementor/) -  WooCommerce Addons and Widgets for Elementor builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
