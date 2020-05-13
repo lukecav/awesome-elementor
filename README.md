@@ -230,6 +230,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Scroll Magic Addon for Elementor](https://wordpress.org/plugins/scroll-magic-addon-for-elementor/) -  ScrollMagic for Elementor makes it easy to respond to the user's current scroll position. This is the perfect plugin to create an animation effect for you if you like.
 * [Ultimate Carousel For Elementor](https://wordpress.org/plugins/ultimate-carousel-for-elementor/) -  Drag & touch Carousel anything at any position.
 * [Better Elementor Addons](https://wordpress.org/plugins/better-elementor-addons/) -  Simple Elementor Addons for making Beautiful Website.
+* [Tweaks for Elementor](https://wordpress.org/plugins/tweaks-for-elementor/) -  Tweaks for Elementor is simple plugin with few features to disable the default Fonts and CSS files of Elementor and Hello Elementor Theme.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
