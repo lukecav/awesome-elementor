@@ -233,6 +233,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Tweaks for Elementor](https://wordpress.org/plugins/tweaks-for-elementor/) -  Tweaks for Elementor is simple plugin with few features to disable the default Fonts and CSS files of Elementor and Hello Elementor Theme.
 * [Template Kit – Import](https://wordpress.org/plugins/template-kit-import/) -  A Template Kit is a collection of pre-designed starter templates for a WordPress Site Builder that share a cohesive visual style.
 * [Astro Elementor Widgets Lite](https://wordpress.org/plugins/astro-elementor-widgets-lite/) -  A modern collection of Elementor widgets. 
+* [WP Layouts](https://wordpress.org/plugins/wp-layouts/) -  Save, store and import layouts instantly, all in ONE place with the click of a button.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
