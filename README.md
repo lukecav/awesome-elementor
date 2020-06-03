@@ -235,6 +235,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Astro Elementor Widgets Lite](https://wordpress.org/plugins/astro-elementor-widgets-lite/) -  A modern collection of Elementor widgets. 
 * [WP Layouts](https://wordpress.org/plugins/wp-layouts/) -  Save, store and import layouts instantly, all in ONE place with the click of a button.
 * [Black Widgets For Elementor](https://wordpress.org/plugins/black-widgets/) -  The black building widgets for Elementor. 
+* [Primary Addon for Elementor](https://wordpress.org/plugins/primary-addon-for-elementor/) -  Primary Addon for Elementor covers all the must-needed elements for creating a perfect websites using Elementor Page Builder. 20+ Common Elementor widget covers all of the Primary elements.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
