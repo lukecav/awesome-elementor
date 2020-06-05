@@ -237,6 +237,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Black Widgets For Elementor](https://wordpress.org/plugins/black-widgets/) -  The black building widgets for Elementor. 
 * [Primary Addon for Elementor](https://wordpress.org/plugins/primary-addon-for-elementor/) -  Primary Addon for Elementor covers all the must-needed elements for creating a perfect websites using Elementor Page Builder. 20+ Common Elementor widget covers all of the Primary elements.
 * [JSON Based Animation for Elementor](https://wordpress.org/plugins/include-lottie-animation-for-elementor/) -  Autoplay | Hover | Click | Mouse Over-Out | Parallax Effect using JSON Based Animation for Elementor and proudly developed by KAP ASIAs Team.
+* [Flexi Addons for Elementor](https://wordpress.org/plugins/flexiaddons/) -  A collection of premium quality & highly customizable addons or modules for use in Elementor page builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
