@@ -238,7 +238,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Primary Addon for Elementor](https://wordpress.org/plugins/primary-addon-for-elementor/) -  Primary Addon for Elementor covers all the must-needed elements for creating a perfect websites using Elementor Page Builder. 20+ Common Elementor widget covers all of the Primary elements.
 * [JSON Based Animation for Elementor](https://wordpress.org/plugins/include-lottie-animation-for-elementor/) -  Autoplay | Hover | Click | Mouse Over-Out | Parallax Effect using JSON Based Animation for Elementor and proudly developed by KAP ASIAs Team.
 * [Flexi Addons for Elementor](https://wordpress.org/plugins/flexiaddons/) -  A collection of premium quality & highly customizable addons or modules for use in Elementor page builder.
-* [Master Image Feed for Elementor](https://wordpress.org/plugins/master-image-feed-elementor/) -  ost advanced and feature rich Image Feed Addons for Elementor. It has Image Feed(Grid), Card Design, Masonry, Carousel, Lightbox etc.
+* [Master Image Feed for Elementor](https://wordpress.org/plugins/master-image-feed-elementor/) -  Most advanced and feature rich Image Feed Addons for Elementor. It has Image Feed(Grid), Card Design, Masonry, Carousel, Lightbox etc.
+* [GiveWP Donation Widgets for Elementor](https://github.com/impress-org/givewp-elementor-widgets) -  All GiveWP shortcodes as Elementor Widgets.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
