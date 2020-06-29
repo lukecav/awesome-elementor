@@ -241,6 +241,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Master Image Feed for Elementor](https://wordpress.org/plugins/master-image-feed-elementor/) -  Most advanced and feature rich Image Feed Addons for Elementor. It has Image Feed(Grid), Card Design, Masonry, Carousel, Lightbox etc.
 * [GiveWP Donation Widgets for Elementor](https://github.com/impress-org/givewp-elementor-widgets) -  All GiveWP shortcodes as Elementor Widgets.
 * [Image Comparison Elementor Addon](https://wordpress.org/plugins/image-comparison-elementor-addon/) -  Image comparison addon for elementor page builder plugin. Compare Before and After Images beautifully.
+* [AI Data Science Templates Kit for Elementor](https://wordpress.org/plugins/ai-data-science-templates-for-elementor/) -  AI Agency & Data Science templates addons for Elementor.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
