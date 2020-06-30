@@ -243,6 +243,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Image Comparison Elementor Addon](https://wordpress.org/plugins/image-comparison-elementor-addon/) -  Image comparison addon for elementor page builder plugin. Compare Before and After Images beautifully.
 * [AI Data Science Templates Kit for Elementor](https://wordpress.org/plugins/ai-data-science-templates-for-elementor/) -  AI Agency & Data Science templates addons for Elementor.
 * [Skyboot custom icons for Elementor](https://wordpress.org/plugins/skyboot-custom-icons-for-elementor/) -  This is a Elementor based plugin. it's a custom icon font library for Elementor page builder.
+* [CF7 For Elementor](https://wordpress.org/plugins/cf7-for-elementor/) -  Simple Elementor CF7 Plugin. An easy way to include Contact Form on your website.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
