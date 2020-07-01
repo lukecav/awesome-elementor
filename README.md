@@ -246,6 +246,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [CF7 For Elementor](https://wordpress.org/plugins/cf7-for-elementor/) -  Simple Elementor CF7 Plugin. An easy way to include Contact Form on your website.
 * [Webigraph Addons for Elementor](https://wordpress.org/plugins/webigraph-addons-for-elementor/) -  Webigraph Addons Plugin Includes effective widgets for Elementor Page Builder.
 * [Hash Elements](https://wordpress.org/plugins/hash-elements/) -  Elementor addons for WordPress Themes developed by HashThemes.
+* [Image Hover Effects for Elementor](https://wordpress.org/plugins/image-hover-effects-elementor-addon/) -  Image Hover Effects addon for elementor page builder plugin. Compare Before and After Images beautifully.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
