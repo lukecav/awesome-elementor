@@ -248,6 +248,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Hash Elements](https://wordpress.org/plugins/hash-elements/) -  Elementor addons for WordPress Themes developed by HashThemes.
 * [Image Hover Effects for Elementor](https://wordpress.org/plugins/image-hover-effects-elementor-addon/) -  Image Hover Effects addon for elementor page builder plugin. Compare Before and After Images beautifully.
 * [Timer Counter Elementor Addons](https://wordpress.org/plugins/timer-element-for-elementor/) -  Timer Counter Elementor Addons for Elementor WordPress Page Builder.
+* [Digital Marketing and Agency Templates for Elementor](https://wordpress.org/plugins/digital-marketing-agency-templates-for-elementor/) -  Digital Marketing and Agency templates widgets for Elementor with 3 premade home pages.
+* [Content Slider for the Elementor Page Builder](https://wordpress.org/plugins/movelize-scrolling-widgets/) -  Elementor columns as scrolling containers.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
