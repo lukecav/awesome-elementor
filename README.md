@@ -251,6 +251,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Digital Marketing and Agency Templates for Elementor](https://wordpress.org/plugins/digital-marketing-agency-templates-for-elementor/) -  Digital Marketing and Agency templates widgets for Elementor with 3 premade home pages.
 * [Content Slider for the Elementor Page Builder](https://wordpress.org/plugins/movelize-scrolling-widgets/) -  Elementor columns as scrolling containers.
 * [Automizy / Elementor Integration](https://wordpress.org/plugins/automizy-elementor-integration/) -  Connect Automizy to Elementor Page Builder.
+* [Webp Image Block](https://wordpress.org/plugins/webp-image-block/) -  This plugin adds an extra image widget in Elementor that converts the added image to webp and loads webp image on front end if the browsers supports webp images.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
