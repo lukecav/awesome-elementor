@@ -254,6 +254,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Webp Image Block](https://wordpress.org/plugins/webp-image-block/) -  This plugin adds an extra image widget in Elementor that converts the added image to webp and loads webp image on front end if the browsers supports webp images.
 * [BuddyPress Builder for Elementor – BuddyBuilder](https://wordpress.org/plugins/stax-buddy-builder/) -  Fully build and customize your BuddyPress community site using Elementor.
 * [File Select Control For Elementor](https://wordpress.org/plugins/file-select-control-for-elementor/) -  This addon adds a new control file-select to use in your widgets. Specially for developers.
+* [Dark Mode for Elementor](https://wordpress.org/plugins/dark-mode-for-elementor/) -  Dark Mode for Elementor front-end, includes a toggle button widget for custom button setup.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
