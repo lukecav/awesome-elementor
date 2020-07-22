@@ -256,6 +256,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [File Select Control For Elementor](https://wordpress.org/plugins/file-select-control-for-elementor/) -  This addon adds a new control file-select to use in your widgets. Specially for developers.
 * [Dark Mode for Elementor](https://wordpress.org/plugins/dark-mode-for-elementor/) -  Dark Mode for Elementor front-end, includes a toggle button widget for custom button setup.
 * [Mama Addons for Elementor Page Builder](https://wordpress.org/plugins/mama-addons-for-elementor/) -  Supercharge your Elementor page builder with professional addons using Mama.
+* [Html Custom Skin Loop Build Using Elementor](https://wordpress.org/plugins/html-custom-skin-loop-build-using-elementor/) -  The most advanced tags builder widget for Elementor with tons of tags, You can design from sketch and make without limitation. It's complicated for normal but it's interesting for designer.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
