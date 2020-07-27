@@ -259,6 +259,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Html Custom Skin Loop Build Using Elementor](https://wordpress.org/plugins/html-custom-skin-loop-build-using-elementor/) -  The most advanced tags builder widget for Elementor with tons of tags, You can design from sketch and make without limitation. It's complicated for normal but it's interesting for designer.
 * [Graphina – Elementor Charts and Graphs](https://wordpress.org/plugins/graphina-elementor-charts-and-graphs/) -  Your ultimate charts and graphs solution to enhance visual effects. Create versatile, advanced and interactive charts on your website.
 * [Zeek Addons](https://wordpress.org/plugins/zeek-addons-for-elementor/) -  Widgets for Elementor.
+* [WHA Elementor Counter Up](https://wordpress.org/plugins/wha-elementor-counter-up/) -  WHA Counter UP is an easy to use jQuery based responsive plugin for Elementor.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
