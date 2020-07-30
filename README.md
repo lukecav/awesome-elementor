@@ -260,6 +260,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Graphina – Elementor Charts and Graphs](https://wordpress.org/plugins/graphina-elementor-charts-and-graphs/) -  Your ultimate charts and graphs solution to enhance visual effects. Create versatile, advanced and interactive charts on your website.
 * [Zeek Addons](https://wordpress.org/plugins/zeek-addons-for-elementor/) -  Widgets for Elementor.
 * [WHA Elementor Counter Up](https://wordpress.org/plugins/wha-elementor-counter-up/) -  WHA Counter UP is an easy to use jQuery based responsive plugin for Elementor.
+* [Envo's Elementor Templates & Widgets for WooCommerce](https://wordpress.org/plugins/envo-elementor-for-woocommerce/) -  Elementor templates library and widgets for WooCommerce.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
