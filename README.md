@@ -261,6 +261,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Zeek Addons](https://wordpress.org/plugins/zeek-addons-for-elementor/) -  Widgets for Elementor.
 * [WHA Elementor Counter Up](https://wordpress.org/plugins/wha-elementor-counter-up/) -  WHA Counter UP is an easy to use jQuery based responsive plugin for Elementor.
 * [Envo's Elementor Templates & Widgets for WooCommerce](https://wordpress.org/plugins/envo-elementor-for-woocommerce/) -  Elementor templates library and widgets for WooCommerce.
+* [BlogLentor – Blog Designer Pack for Elementor](https://wordpress.org/plugins/bloglentor-for-elementor/) -  Showcase your WordPress posts from any post type in beautiful way with Elementor page builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
