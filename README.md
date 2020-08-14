@@ -264,6 +264,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [BlogLentor – Blog Designer Pack for Elementor](https://wordpress.org/plugins/bloglentor-for-elementor/) -  Showcase your WordPress posts from any post type in beautiful way with Elementor page builder.
 * [Disable Next Step With Enter in Elementor Forms](https://wordpress.org/plugins/disable-next-step-with-enter-in-elementor-forms/) -  Disable Next Step With Enter in Elementor Forms.
 * [Template Builder Elementor](https://wordpress.org/plugins/template-builder-elementor/) -  Create custom templates for your posts, pages, custom post types. Supports WooCommerce , ACF Custom fields.
+* [SKT Templates – Elementor prebuilt templates](https://wordpress.org/plugins/skt-templates/) -  SKT Templates is an Elementor themes library and allows you to select from over 100s of designs to choose from.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
