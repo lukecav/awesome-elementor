@@ -267,7 +267,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [SKT Templates – Elementor prebuilt templates](https://wordpress.org/plugins/skt-templates/) -  SKT Templates is an Elementor themes library and allows you to select from over 100s of designs to choose from.
 * [Unlimited Addon For Elementor](https://wordpress.org/plugins/unlimited-addon-for-elementor/) -  A collection of quality addons or modules for use in Elementor page builder.
 * [Columns Reordering for Elementor](https://wordpress.org/plugins/columns-reordering-for-elementor/) -  This plugin adds "Display Order" control to help you easily reorder Elementor columns and sections on Mobile and Tablet.
-.
+* [e-addons for Elementor](https://wordpress.org/plugins/e-addons-for-elementor/) -  The new must-have tool-set for web experts. Exploit Elementor limitless potential, with powerful widgets & extensions, and boost your workflow.
+
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
 * [OceanWP](https://oceanwp.org/) - OceanWP is the perfect WordPress theme totally free to use with your prefered page builder.
