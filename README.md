@@ -271,6 +271,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Advanced Chart for Elementor](https://wordpress.org/plugins/advanced-chart-for-elementor/) -  Advanced Chart for Elementor and proudly developed by KAP ASIAs Team.
 * [Qode Essential Addons](https://wordpress.org/plugins/qode-essential-addons/) -  Qode Essential Addons enhances themes with various functionalities- Portfolio post type, Portfolio List, Blog List & Product List shortcodes and more.
 * [Ajax Load More for Elementor](https://wordpress.org/plugins/ajax-load-more-for-elementor/) -  Ajax Load More for Elementor lets you display your Posts with an Ajax powered Load More Button.
+* [Move Addons](https://wordpress.org/plugins/move-addons/) -  Move Addons is an Elementor Page builder widget plugin.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
