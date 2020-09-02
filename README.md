@@ -272,6 +272,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Qode Essential Addons](https://wordpress.org/plugins/qode-essential-addons/) -  Qode Essential Addons enhances themes with various functionalities- Portfolio post type, Portfolio List, Blog List & Product List shortcodes and more.
 * [Ajax Load More for Elementor](https://wordpress.org/plugins/ajax-load-more-for-elementor/) -  Ajax Load More for Elementor lets you display your Posts with an Ajax powered Load More Button.
 * [Move Addons](https://wordpress.org/plugins/move-addons/) -  Move Addons is an Elementor Page builder widget plugin.
+* [Infinite Scroll for Elementor with Ajax](https://wordpress.org/plugins/infinite-scroll-for-elementor-with-ajax/) -  Infinite Scroll for Elementor with Ajax.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
