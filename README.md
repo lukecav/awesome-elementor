@@ -273,6 +273,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Ajax Load More for Elementor](https://wordpress.org/plugins/ajax-load-more-for-elementor/) -  Ajax Load More for Elementor lets you display your Posts with an Ajax powered Load More Button.
 * [Move Addons](https://wordpress.org/plugins/move-addons/) -  Move Addons is an Elementor Page builder widget plugin.
 * [Infinite Scroll for Elementor with Ajax](https://wordpress.org/plugins/infinite-scroll-for-elementor-with-ajax/) -  Infinite Scroll for Elementor with Ajax.
+* [Marvy – Background Animations for Elementor](https://wordpress.org/plugins/marvy-animation-addons-for-elementor-lite/) -  This is a short description of what the plugin does. It's displayed in the WordPress admin area.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
