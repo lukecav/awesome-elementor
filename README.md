@@ -274,6 +274,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Move Addons](https://wordpress.org/plugins/move-addons/) -  Move Addons is an Elementor Page builder widget plugin.
 * [Infinite Scroll for Elementor with Ajax](https://wordpress.org/plugins/infinite-scroll-for-elementor-with-ajax/) -  Infinite Scroll for Elementor with Ajax.
 * [Marvy – Background Animations for Elementor](https://wordpress.org/plugins/marvy-animation-addons-for-elementor-lite/) -  This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+* [JetGridBuilder for Elementor](https://wordpress.org/plugins/jetgridbuilder/) -  The First Grid Builder for WordPress.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
