@@ -276,6 +276,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Marvy – Background Animations for Elementor](https://wordpress.org/plugins/marvy-animation-addons-for-elementor-lite/) -  This is a short description of what the plugin does. It's displayed in the WordPress admin area.
 * [JetGridBuilder for Elementor](https://wordpress.org/plugins/jetgridbuilder/) -  The First Grid Builder for WordPress.
 * [Elemenda](https://wordpress.org/plugins/elemenda/) -  Powerful widgets for marketer that works seamlessly with Elementor page builder.
+* [Blog, Posts and Category Filter for Elementor](https://wordpress.org/plugins/blog-posts-and-category-for-elementor/) -  Posts and Category for Elementor.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
