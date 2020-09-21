@@ -277,6 +277,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [JetGridBuilder for Elementor](https://wordpress.org/plugins/jetgridbuilder/) -  The First Grid Builder for WordPress.
 * [Elemenda](https://wordpress.org/plugins/elemenda/) -  Powerful widgets for marketer that works seamlessly with Elementor page builder.
 * [Blog, Posts and Category Filter for Elementor](https://wordpress.org/plugins/blog-posts-and-category-for-elementor/) -  Posts and Category for Elementor.
+* [Include Klaviyo for Elementor Pro](https://wordpress.org/plugins/include-klaviyo-for-elementor-pro/) -  Klaviyo's list API integration for Elementor Pro form.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
