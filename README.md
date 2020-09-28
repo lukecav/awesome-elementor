@@ -279,6 +279,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Blog, Posts and Category Filter for Elementor](https://wordpress.org/plugins/blog-posts-and-category-for-elementor/) -  Posts and Category for Elementor.
 * [Include Klaviyo for Elementor Pro](https://wordpress.org/plugins/include-klaviyo-for-elementor-pro/) -  Klaviyo's list API integration for Elementor Pro form.
 * [Telementor](https://wordpress.org/plugins/telementor-telegram-for-elementor-form/) -  Easy and Fast Telegram Integration for Elementor Form.
+* [HQ Widgets for Elementor](https://wordpress.org/plugins/hq-widgets-for-elementor/) -  The HQ Widgets for Elementor is an elementor addons package for Elementor page builder plugin for WordPress.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
