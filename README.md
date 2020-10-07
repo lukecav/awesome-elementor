@@ -281,6 +281,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Telementor](https://wordpress.org/plugins/telementor-telegram-for-elementor-form/) -  Easy and Fast Telegram Integration for Elementor Form.
 * [HQ Widgets for Elementor](https://wordpress.org/plugins/hq-widgets-for-elementor/) -  The HQ Widgets for Elementor is an elementor addons package for Elementor page builder plugin for WordPress.
 * [Addon Package for Elementor](https://wordpress.org/plugins/addon-package-for-elementor/) -  This lightweight Plugin (Addon for Elementor) allows you to use FlexSlider in Elementor.
+* [ePdf-Support Elements Pdf Creator Addon For Elementor Lite](https://wordpress.org/plugins/epdf-support-elements-pdf-creator-addon-for-elementor-lite/) -  ePdf-Support Elements Pdf Creator Addon For Elementor Lite permits the users to get static look of Blogs, Product, Post, Page and many more made by Elementor Page Bulider. 
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
