@@ -280,6 +280,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Include Klaviyo for Elementor Pro](https://wordpress.org/plugins/include-klaviyo-for-elementor-pro/) -  Klaviyo's list API integration for Elementor Pro form.
 * [Telementor](https://wordpress.org/plugins/telementor-telegram-for-elementor-form/) -  Easy and Fast Telegram Integration for Elementor Form.
 * [HQ Widgets for Elementor](https://wordpress.org/plugins/hq-widgets-for-elementor/) -  The HQ Widgets for Elementor is an elementor addons package for Elementor page builder plugin for WordPress.
+* [Addon Package for Elementor](https://wordpress.org/plugins/addon-package-for-elementor/) -  This lightweight Plugin (Addon for Elementor) allows you to use FlexSlider in Elementor.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
