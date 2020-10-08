@@ -282,6 +282,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [HQ Widgets for Elementor](https://wordpress.org/plugins/hq-widgets-for-elementor/) -  The HQ Widgets for Elementor is an elementor addons package for Elementor page builder plugin for WordPress.
 * [Addon Package for Elementor](https://wordpress.org/plugins/addon-package-for-elementor/) -  This lightweight Plugin (Addon for Elementor) allows you to use FlexSlider in Elementor.
 * [ePdf-Support Elements Pdf Creator Addon For Elementor Lite](https://wordpress.org/plugins/epdf-support-elements-pdf-creator-addon-for-elementor-lite/) -  ePdf-Support Elements Pdf Creator Addon For Elementor Lite permits the users to get static look of Blogs, Product, Post, Page and many more made by Elementor Page Bulider. 
+* [Events Widgets For Elementor And The Events Calendar](https://wordpress.org/plugins/events-widgets-for-elementor-and-the-events-calendar/) -  Events Calendar Templates Builder For Elementor to create a beautiful calendar in  page and post.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
