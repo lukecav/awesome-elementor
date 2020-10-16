@@ -285,6 +285,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Events Widgets For Elementor And The Events Calendar](https://wordpress.org/plugins/events-widgets-for-elementor-and-the-events-calendar/) -  Events Calendar Templates Builder For Elementor to create a beautiful calendar in  page and post.
 * [Super Addons for Elementor](https://wordpress.org/plugins/super-addons-for-elementor/) -  Enhance your Elementor page building experience with 15+ creative elements and extensions.
 * [Advanced Image Hover Effect for Elementor](https://wordpress.org/plugins/advanced-image-hover-effect-for-elementor/) -  Advanced Image Hover Effect for Elementor Page Builder is customized hover effects for your box layout.
+* [Falang for Elementor Lite](https://wordpress.org/plugins/falang-for-elementor-lite/) -  Manage translation for Elementor with Falang.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
