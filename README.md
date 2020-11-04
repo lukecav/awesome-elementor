@@ -288,6 +288,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Falang for Elementor Lite](https://wordpress.org/plugins/falang-for-elementor-lite/) -  Manage translation for Elementor with Falang.
 * [Creative Addons for Elementor](https://wordpress.org/plugins/creative-addons-for-elementor/) -  Creative Addons makes writing professional documents and articles easy.
 * [Cowidgets - Elementor Addons](https://wordpress.org/plugins/cowidgets-elementor-addons/) -  Elementor Widgets for Sliders, Portfolio, Posts, Header & Footer Builder for your WordPress website using Elementor Page Builder for free.
+* [Notification Bar Builder for Elementor](https://wordpress.org/plugins/notification-bar-builder-for-elementor/) -  It allows elementor to build a notification bar using the page builder & use it any pages,posts,products etc.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
