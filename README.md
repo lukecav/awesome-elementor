@@ -291,6 +291,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Notification Bar Builder for Elementor](https://wordpress.org/plugins/notification-bar-builder-for-elementor/) -  It allows elementor to build a notification bar using the page builder & use it any pages,posts,products etc.
 * [GamiPress – Elementor Forms integration](https://wordpress.org/plugins/gamipress-elementor-forms-integration/) -  Connect GamiPress with Elementor Forms.
 * [Cresta Addons for Elementor](https://wordpress.org/plugins/cresta-addons-for-elementor/) -  Cresta Addons for Elementor.
+* [Droit Elementor Addons For Elementor](https://wordpress.org/plugins/droit-elementor-addons/) -  Droit Elementor Addons is a bundle of super useful widgets. This Elementor compatible plugin is easy to use and you can customize different features as you like. Just plug and play.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
