@@ -308,6 +308,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Neve](https://wordpress.org/themes/neve/) - Neve is a super fast, easily customizable, multi-purpose theme.
 * [Responsive](https://wordpress.org/themes/responsive/) - Responsive is a Fully Customizable, Fast & Responsive WordPress Theme.
 * [Suki](https://wordpress.org/themes/suki/) - Suki is a free multi-purpose WordPress theme that is lightweight, fast, highly customizable, and flexible.
+* [Airi](https://wordpress.org/themes/airi/) - Airi is a powerful, flexible, and modern theme for your business website.
+* [Sydney](https://wordpress.org/themes/sydney/) - Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence.
 
 ## Elementor Performance
 * [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
