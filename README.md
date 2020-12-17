@@ -2,10 +2,14 @@
 A collection of third party add-ons for [Elementor](https://elementor.com/) page builder plugin.
 
 ## Table Of Contents
+* [Elementor Beta Testing](#elementor-beta-testing)
 * [Third-Party Add-Ons](#third-party-add-ons)
 * [Themes which work well with Elementor](#themes-which-work-well-with-elementor)
 * [Performance tweaks for Elementor](#elementor-performance)
 * [Premium Elementor Third-Party Widgets/Add-Ons](#premium-elementor-third-party-widgetsadd-ons)
+
+## Elementor Beta Testing
+* [Elementor Beta (Developer Edition)](https://wordpress.org/plugins/elementor-beta/) - Elementor Developer Edition gives you direct access into Elementor's development process, and lets you take an active part in perfecting our product. Each Developer Edition release will contain experimental functionalities that developers will be able to use to get familiar with the next releases before they are published.
 
 ## Third-Party Add-Ons
 * [Elementor Addon Elements](https://wordpress.org/plugins/addon-elements-for-elementor-page-builder/) - Add new elements to Elementor page builder.
