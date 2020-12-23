@@ -299,6 +299,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [WPSyncSheets Lite For Elementor](https://wordpress.org/plugins/wpsyncsheets-elementor/) -  Save all Elementor Pro Form entries to Google Spreadsheet.
 * [Dynamic Countdown with ACF and Elementor](https://wordpress.org/plugins/dynamic-countdown-with-acf-and-elementor/) -  This is a simple plugin that fixes one of the main issues with the Elementor Countdown Widget; the inability to dynamically set the due date with an ACF Field.
 * [Starter Sites for Elementor](https://wordpress.org/plugins/athemes-starter-sites/) -  Starter Sites for Sydney and Airi, built with Elementor.
+* [Testimonial for Elementor](https://wordpress.org/plugins/appbuff-testimonial-for-elementor/) -  Demonstrate the happy client experience on your site and draw new users.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
