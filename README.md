@@ -302,6 +302,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Testimonial for Elementor](https://wordpress.org/plugins/appbuff-testimonial-for-elementor/) -  Demonstrate the happy client experience on your site and draw new users.
 * [ACF Repeater For Elementor](https://wordpress.org/plugins/acf-repeater-for-elementor/) -  Easy and simple way to use ACF Pro repeater in elementor.
 * [Tutor LMS Elementor Addons](https://wordpress.org/plugins/tutor-lms-elementor-addons/) -  Elementor Addons Integration - Tutor LMS plugin lets you design course pages with Elementor.
+* [Music Player for Elementor](https://wordpress.org/plugins/music-player-for-elementor/) -  Music Player For Elementor is a stylish audio player addon for Elementor. Promote your music with an easy to use and highly customizable mp3 player and audio player.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
