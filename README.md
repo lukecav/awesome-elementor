@@ -320,6 +320,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Airi](https://wordpress.org/themes/airi/) - Airi is a powerful, flexible, and modern theme for your business website.
 * [Sydney](https://wordpress.org/themes/sydney/) - Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence.
 * [Kadence](https://wordpress.org/themes/kadence/) - Kadence Theme is a lightweight yet full featured WordPress theme for creating beautiful fast loading and accessible websites, easier than ever. 
+* [Izo](https://wordpress.org/themes/izo/) - Izo a fast, lightweight, native AMP and fully customizable multipurpose WordPress theme.
 
 ## Elementor Performance
 * [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
