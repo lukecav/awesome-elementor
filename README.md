@@ -305,6 +305,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Music Player for Elementor](https://wordpress.org/plugins/music-player-for-elementor/) -  Music Player For Elementor is a stylish audio player addon for Elementor. Promote your music with an easy to use and highly customizable mp3 player and audio player.
 * [Mega Elements - Addons for Elementor](https://wordpress.org/plugins/mega-elements-addons-for-elementor/) -  The most advanced frontend drag & drop page builder addons for Elementor. Create high-end, beautiful, and pixel perfect websites in less time.
 * [Restrict Elementor Widgets](https://wordpress.org/plugins/restrict-elementor-widgets/) -  Restrict Elementor Widgets based on different conditions. Works for any widgets from any plugins.
+* [Elysio Form – Widget & Styles Contact Form 7 for Elementor](https://wordpress.org/plugins/elysio-form/) -  Add Contact Form 7 widget for Elementor. Also you can modify layout, design & styles. And even add animations.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
