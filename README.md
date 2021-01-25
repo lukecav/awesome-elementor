@@ -317,7 +317,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Base Theme](https://www.sitepoint.com/basetheme/) - Minimal. Clean. Simple. Lightweight. Responsive.
 * [Actions](https://wordpress.org/themes/actions/) - Simple, clean and actionable WordPress theme built around Actions. Supports a left or right sidebar, full width narrow as well as full width wide modes.
 * [Hestia](https://wordpress.org/themes/hestia/) - Hestia is a modern WordPress theme for professionals.
-* [Tiny Hestia](https://wordpress.org/themes/tiny-hestia/) - Tiny Hestia is a child theme for blogging enthusiasts and for page builders fans. 
 * [Neve](https://wordpress.org/themes/neve/) - Neve is a super fast, easily customizable, multi-purpose theme.
 * [Responsive](https://wordpress.org/themes/responsive/) - Responsive is a Fully Customizable, Fast & Responsive WordPress Theme.
 * [Suki](https://wordpress.org/themes/suki/) - Suki is a free multi-purpose WordPress theme that is lightweight, fast, highly customizable, and flexible.
