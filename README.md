@@ -316,6 +316,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [EleMate](https://wordpress.org/themes/elemate/) - EleMate(Elementor Material) is a custom theme for the Elementor plugin utilising the Material design CSS framework.
 * [Base Theme](https://www.sitepoint.com/basetheme/) - Minimal. Clean. Simple. Lightweight. Responsive.
 * [Actions](https://wordpress.org/themes/actions/) - Simple, clean and actionable WordPress theme built around Actions. Supports a left or right sidebar, full width narrow as well as full width wide modes.
+* [Hestia](https://wordpress.org/themes/hestia/) - Hestia is a modern WordPress theme for professionals.
 * [Tiny Hestia](https://wordpress.org/themes/tiny-hestia/) - Tiny Hestia is a child theme for blogging enthusiasts and for page builders fans. 
 * [Neve](https://wordpress.org/themes/neve/) - Neve is a super fast, easily customizable, multi-purpose theme.
 * [Responsive](https://wordpress.org/themes/responsive/) - Responsive is a Fully Customizable, Fast & Responsive WordPress Theme.
