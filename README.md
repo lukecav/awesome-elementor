@@ -307,6 +307,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Restrict Elementor Widgets](https://wordpress.org/plugins/restrict-elementor-widgets/) -  Restrict Elementor Widgets based on different conditions. Works for any widgets from any plugins.
 * [Elysio Form – Widget & Styles Contact Form 7 for Elementor](https://wordpress.org/plugins/elysio-form/) -  Add Contact Form 7 widget for Elementor. Also you can modify layout, design & styles. And even add animations.
 * [Ckav Elementor Booster](https://wordpress.org/plugins/ckav-elementor-booster/) -  Ckav Elementor Booster helps to mask and clipping your image.
+* [Guto Toolkit](https://wordpress.org/plugins/guto-toolkit/) -  Elementor Addons WordPress Plugin.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
