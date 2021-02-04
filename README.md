@@ -309,6 +309,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Ckav Elementor Booster](https://wordpress.org/plugins/ckav-elementor-booster/) -  Ckav Elementor Booster helps to mask and clipping your image.
 * [Guto Toolkit](https://wordpress.org/plugins/guto-toolkit/) -  Elementor Addons WordPress Plugin.
 * [ElementInvader Addons for Elementor](https://wordpress.org/plugins/elementinvader-addons-for-elementor/) -  Ready to use Elementor Addon Elements like Menu, Forms, Maps, Newsletter with many styling options.
+* [Element Ready Lite](https://wordpress.org/plugins/element-ready-lite/) -  Elements Ready comes up with ultimate Elementor blocks and widgets. Ready section and flexible option makes it more efficient for the users.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
