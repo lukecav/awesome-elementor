@@ -314,6 +314,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Gum Elementor Addon](https://wordpress.org/plugins/gum-elementor-addon/) -  Slideshow widget for Elementor.
 * [Timeline for WP Elementor](https://wordpress.org/plugins/timeline-for-wp-elementor/) -  Timeline for WP Elementor Plugin for Elementor Page builder.
 * [UltraAddons Elementor Lite](https://wordpress.org/plugins/ultraaddons-elementor-lite/) -  Elementor Addons Plugin. Build your desired page just few click. Easy to use and useable for any theme and plugin.
+* [ButtonZ – Elementor Addon](https://wordpress.org/plugins/buttonz/) -  ButtonZ is a powerful plugin for creating any kind of button that you can imagine with Elementor.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
