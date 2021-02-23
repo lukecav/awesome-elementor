@@ -317,6 +317,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [ButtonZ – Elementor Addon](https://wordpress.org/plugins/buttonz/) -  ButtonZ is a powerful plugin for creating any kind of button that you can imagine with Elementor.
 * [WN Elementor Glassy Columns](https://wordpress.org/plugins/wn-elementor-glassy/) -  This Elementor addon is the first of its kind, and it apply a glassmorphism effect to the Elementor columns.
 * [Xpro Addons For Beaver Builder Elementor](https://wordpress.org/plugins/xpro-addons-beaver-builder-elementor/) -  Simply drag and drop our custom creative modules and create stunning websites.
+* [Item Lists for Elementor](https://wordpress.org/plugins/item-lists-for-elementor/) -  It is a perfect solution for formatting bullets in a creative and easy-to-read way. This plugin is bundled with precisely designed 5 of the most useful lists to showcase your website with list styling.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
