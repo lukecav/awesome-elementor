@@ -316,6 +316,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [UltraAddons Elementor Lite](https://wordpress.org/plugins/ultraaddons-elementor-lite/) -  Elementor Addons Plugin. Build your desired page just few click. Easy to use and useable for any theme and plugin.
 * [ButtonZ – Elementor Addon](https://wordpress.org/plugins/buttonz/) -  ButtonZ is a powerful plugin for creating any kind of button that you can imagine with Elementor.
 * [WN Elementor Glassy Columns](https://wordpress.org/plugins/wn-elementor-glassy/) -  This Elementor addon is the first of its kind, and it apply a glassmorphism effect to the Elementor columns.
+* [Xpro Addons For Beaver Builder Elementor](https://wordpress.org/plugins/xpro-addons-beaver-builder-elementor/) -  Simply drag and drop our custom creative modules and create stunning websites.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
