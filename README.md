@@ -321,6 +321,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Endless Addons](https://wordpress.org/plugins/endless-addons-for-elementor/) -  Endless Addons is a WordPress plugin that works seamlessly with Elementor Website Builder.
 * [eCommerce Addon](https://wordpress.org/plugins/ecommerce-addon/) -  eCommerce Addon covers all the must-needed elements for creating a perfect eCommerce website using Elementor Page Builder. 20+ Unique & Basic Elementor widget covers all of the eCommerce elements.
 * [Yummy Cookies](https://wordpress.org/plugins/yummy-cookies/) -  A lightweight plugin that extends Elementor's Dynamic Tags with Cookies.
+* [Math Captcha for Elementor Forms](https://wordpress.org/plugins/math-captcha-for-elementor-forms/) -  Simple match captcha for Elementor Page Builder Forms.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
