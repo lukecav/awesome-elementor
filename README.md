@@ -323,6 +323,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Yummy Cookies](https://wordpress.org/plugins/yummy-cookies/) -  A lightweight plugin that extends Elementor's Dynamic Tags with Cookies.
 * [Math Captcha for Elementor Forms](https://wordpress.org/plugins/math-captcha-for-elementor-forms/) -  Simple match captcha for Elementor Page Builder Forms.
 * [Scheduler for Elementor](https://wordpress.org/plugins/scheduler-for-elementor/) -  Adds a scheduling control to elementor blocks to time its visibility.
+* [LA-Studio Element Kit for Elementor](https://wordpress.org/plugins/lastudio-element-kit/) -  This plugin helps you to add custom size units into padding/setting of common widgets for Elementor.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
