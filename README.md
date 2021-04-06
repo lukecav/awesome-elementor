@@ -325,6 +325,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Scheduler for Elementor](https://wordpress.org/plugins/scheduler-for-elementor/) -  Adds a scheduling control to elementor blocks to time its visibility.
 * [LA-Studio Element Kit for Elementor](https://wordpress.org/plugins/lastudio-element-kit/) -  This plugin helps you to add custom size units into padding/setting of common widgets for Elementor.
 * [Better Usage Statistics for Elementor](https://wordpress.org/plugins/bin-elements-usage-stats-for-elementor/) -  Displays more detailed elements usage statistic for Elementor.
+* [Media Player Addons for Elementor](https://wordpress.org/plugins/media-player-addons-for-elementor/) -  Collection of media players to plaback of various media files such as .mp3, .mp4, .flv, .m3u8, .ogg, YouTube, Vimeo and more.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
