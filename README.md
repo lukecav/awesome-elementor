@@ -347,6 +347,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Izo](https://wordpress.org/themes/izo/) - Izo a fast, lightweight, native AMP and fully customizable multipurpose WordPress theme.
 * [Zakra](https://wordpress.org/themes/zakra/) - Zakra is flexible, fast, lightweight and modern multipurpose theme that comes with many starter free sites.
 * [Michelle](https://wordpress.org/themes/michelle/) - Michelle is accessibility ready WordPress theme for creating inclusive, accessible websites.
+* [Marmot](https://wordpress.org/themes/marmot/) - Marmot is a fast and fully customizable theme with intergated theme builder.
 
 ## Elementor Performance
 * [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
