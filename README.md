@@ -328,6 +328,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Media Player Addons for Elementor](https://wordpress.org/plugins/media-player-addons-for-elementor/) -  Collection of media players to plaback of various media files such as .mp3, .mp4, .flv, .m3u8, .ogg, YouTube, Vimeo and more.
 * [Dynamic Display Shortcode for Elementor](https://wordpress.org/plugins/dynamic-display-sections/) -  Display Elementor sections and columns dynamic with shortcode.
 * [Ultimate Post Kit](https://wordpress.org/plugins/ultimate-post-kit/) -  Ultimate Post Kit is a packed of elementor widgets. This plugin gives you extra widgets features for Elementor page builder plugin.
+* [Qi Addons For Elementor](https://wordpress.org/plugins/qi-addons-for-elementor/) -  Qi Addons for Elementor is a comprehensive library of 60 custom, flexible & easily styled widgets for Elementor developed by Qode Interactive.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
