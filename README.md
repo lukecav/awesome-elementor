@@ -329,6 +329,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Dynamic Display Shortcode for Elementor](https://wordpress.org/plugins/dynamic-display-sections/) -  Display Elementor sections and columns dynamic with shortcode.
 * [Ultimate Post Kit](https://wordpress.org/plugins/ultimate-post-kit/) -  Ultimate Post Kit is a packed of elementor widgets. This plugin gives you extra widgets features for Elementor page builder plugin.
 * [Qi Addons For Elementor](https://wordpress.org/plugins/qi-addons-for-elementor/) -  Qi Addons for Elementor is a comprehensive library of 60 custom, flexible & easily styled widgets for Elementor developed by Qode Interactive.
+* [Easy Elementor Addons](https://wordpress.org/plugins/easy-elementor-addons/) -  Easy Elementor Addons is an all in one element pack extension for Elementor page builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
