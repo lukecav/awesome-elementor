@@ -331,6 +331,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Qi Addons For Elementor](https://wordpress.org/plugins/qi-addons-for-elementor/) -  Qi Addons for Elementor is a comprehensive library of 60 custom, flexible & easily styled widgets for Elementor developed by Qode Interactive.
 * [Easy Elementor Addons](https://wordpress.org/plugins/easy-elementor-addons/) -  Easy Elementor Addons is an all in one element pack extension for Elementor page builder.
 * [RT Easy Builder - Advanced addons for Elementor](https://wordpress.org/plugins/rt-easy-builder-advanced-addons-for-elementor/) -  RT Easy Builder is a bunch of Advanced Extra Addons for the Popular Plugin Elementor including a demo importer that would help to import any Readymade Starter sites with one click.
+* [Chart Addon for Elementor – WPTD](https://wordpress.org/plugins/wptd-chart/) -  WPTD Chart is advanced elementor chart plugin. Convert easily data into chart. We gives you 4 models of charts example: pie chart, line chart, doughnut chart, bar chart. Also you can control chart legend details. In future we planned to give more chart types as free.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
