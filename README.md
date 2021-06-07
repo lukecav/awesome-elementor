@@ -335,6 +335,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Education Addon for Elementor](https://wordpress.org/plugins/education-addon/) -  Education Addon covers all the Must-Have elements for creating a perfect Education website using Elementor Page Builder. 15+ Unique & Basic Elementor widget covers all of the Education elements.
 * [Widget Detector for Elementor](https://wordpress.org/plugins/widget-detector-elementor/) -  Detect Elementor widgets used on pages, also not used widgets or missign widgets.
 * [Advanced Image Comparison for Elementor](https://wordpress.org/plugins/advanced-image-comparison-for-elementor/) -  Advanced Image Comparison for Elementor wordpress plugin.
+* [Royal Elementor Addons](https://wordpress.org/plugins/royal-elementor-addons/) -  Royal Elementor Addons is the most versatile, intuitive, and easy to use Elementor Page Builder plugin.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
