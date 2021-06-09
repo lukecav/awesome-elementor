@@ -337,6 +337,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Advanced Image Comparison for Elementor](https://wordpress.org/plugins/advanced-image-comparison-for-elementor/) -  Advanced Image Comparison for Elementor wordpress plugin.
 * [Royal Elementor Addons](https://wordpress.org/plugins/royal-elementor-addons/) -  Royal Elementor Addons is the most versatile, intuitive, and easy to use Elementor Page Builder plugin.
 * [Document Embedder Addon For Elementor](https://wordpress.org/plugins/document-embedder-addons-for-elementor/) -  You can easily Embed pdf, docs, xlsx, pptx files in wordress post, page, widget area and theme template file.
+* [Filter for Elementor](https://wordpress.org/plugins/filter-for-elementor/) -  A plugin to filter every module in Elementor.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
