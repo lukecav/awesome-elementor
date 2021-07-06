@@ -340,6 +340,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Filter for Elementor](https://wordpress.org/plugins/filter-for-elementor/) -  A plugin to filter every module in Elementor.
 * [The Pack Elementor addons](https://wordpress.org/plugins/the-pack-addon/) -  The most advanced addon for Elementor page builder.
 * [Restrict for Elementor](https://wordpress.org/plugins/restrict-for-elementor/) -  Show or hide Elementor sections, columns and widgets with ease using many different criteria.
+* [Thumbnail Hover Menu for Elementor](https://wordpress.org/plugins/thumbnail-hover-menu-for-elementor/) -  This plugin adds a Thumbnail Hover Menu widget to the Elementor Page Builder.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
