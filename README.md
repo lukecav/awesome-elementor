@@ -364,6 +364,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Michelle](https://wordpress.org/themes/michelle/) - Michelle is accessibility ready WordPress theme for creating inclusive, accessible websites.
 * [Marmot](https://wordpress.org/themes/marmot/) - Marmot is a fast and fully customizable theme with intergated theme builder.
 * [Deep](https://wordpress.org/themes/deep/) - Deep is a free, fully responsive, Retina-Ready WordPress theme with a minimal design that allows visitors to focus on content.
+* [Everse](https://wordpress.org/themes/everse/) - Everse is a multi niche optimized WordPress theme based on Elementor Page Builder.
 
 ## Elementor Performance
 * [ToolKit For Elementor](https://toolkitforelementor.com/) - Build lighter Elementor experiences with over twenty performance tweaks, powerful site admin tools, and amazing support. 
