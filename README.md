@@ -343,6 +343,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Thumbnail Hover Menu for Elementor](https://wordpress.org/plugins/thumbnail-hover-menu-for-elementor/) -  This plugin adds a Thumbnail Hover Menu widget to the Elementor Page Builder.
 * [Ultimate Bootstrap Elements for Elementor](https://wordpress.org/plugins/ultimate-bootstrap-elements-for-elementor/) -  Enhance your Elementor page building experience with Bootstrap Components and many other extension elements.
 * [Text Scrambler for Elementor](https://wordpress.org/plugins/text-scrambler-for-elementor/) -  This plugin adds a Text Scrambler widget to the Elementor Page Builder.
+* [WPZOOM Addons for Elementor](https://wordpress.org/plugins/wpzoom-elementor-addons/) -  A plugin that provides a collection of Elementor Templates and advanced widgets created by the WPZOOM team.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
