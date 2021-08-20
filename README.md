@@ -345,6 +345,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Text Scrambler for Elementor](https://wordpress.org/plugins/text-scrambler-for-elementor/) -  This plugin adds a Text Scrambler widget to the Elementor Page Builder.
 * [WPZOOM Addons for Elementor](https://wordpress.org/plugins/wpzoom-elementor-addons/) -  A plugin that provides a collection of Elementor Templates and advanced widgets created by the WPZOOM team.
 * [Post Carousel Addons For Elementor](https://wordpress.org/plugins/post-carousel-addons-for-elementor/) -  Post Carousel Slider for Elementor Lets you display your WordPress Posts as Carousel Slider. You can now show your posts using this plugin easily to your users as a Carousel Slider.
+* [Social Feed Widgets For Elementor](https://wordpress.org/plugins/social-feed-widgets-for-elementor-using-smash-balloon/) -  Social Feed Widget Addon For Elementor create social feed in page and post.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
