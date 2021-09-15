@@ -378,6 +378,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Debug Elementor](https://wordpress.org/plugins/debug-elementor/) - Debugging plugin for Elementor to display post/page data saved by Elementor page builder.
 * [Clean Elementor](https://wordpress.org/plugins/clean-elementor/) - Set Elementor settings and clean up the dashboard.
 * [How To Speed up WordPress: In-Depth Guide](https://elementor.com/blog/how-to-speed-up-wordpress-website/) - Understanding all the ins and outs of WordPress performance can be complicated, which is why we’ve created this huge guide on how to speed up your WordPress site.
+* [How to Speed Up a Slow Site With Elementor](https://elementor.com/help/speed-up-a-slow-site/) - Elementor is the fastest website builder for WordPress, written with the strictest code standards. Some websites, however, might have a configuration that causes slow loading.
 
 ## Premium Elementor Third-Party Widgets/Add-Ons
 |                                                 |                                                                                                                                                                            |
