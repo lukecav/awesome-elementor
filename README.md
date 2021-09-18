@@ -121,7 +121,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Logic Hop Personalization for Elementor Add-on](https://wordpress.org/plugins/logic-hop-personalization-for-elementor-add-on/) - The Logic Hop Personalization for Elementor Add-on brings the power of personalization to WordPress with Elementor.
 * [Happy Addons For Elementor](https://wordpress.org/plugins/happy-elementor-addons/) - Best Addons for Elementor.
 * [Inspirelite Addons For Elementor](https://wordpress.org/plugins/inspirelite-addons-for-elementor/) - Buttons variation for Elementor page builder widgets.
-* [WPB Elementor Addons](https://wordpress.org/plugins/wpb-elementor-addons/) -  Highly customizable addons for Elementor page builder. 
+* [WPB Elementor Addons](https://wordpress.org/plugins/wpb-elementor-addons/) -  Highly customizable addons for Elementor page builder.
 * [HT Newsletter for Elementor](https://wordpress.org/plugins/ht-newsletter-for-elementor/) - The HT Newsletter for Elementor is a Elementor addon for WordPress.
 * [HT Slider For Elementor](https://wordpress.org/plugins/ht-slider-for-elementor/) - The Slider is a Elementor addons for WordPress.
 * [RT Elementor Widgets](https://wordpress.org/plugins/rt-elementor-widgets/) - Add some new widgets to the popular free page builder Elementor.
@@ -236,9 +236,9 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Better Elementor Addons](https://wordpress.org/plugins/better-elementor-addons/) -  Simple Elementor Addons for making Beautiful Website.
 * [Tweaks for Elementor](https://wordpress.org/plugins/tweaks-for-elementor/) -  Tweaks for Elementor is simple plugin with few features to disable the default Fonts and CSS files of Elementor and Hello Elementor Theme.
 * [Template Kit – Import](https://wordpress.org/plugins/template-kit-import/) -  A Template Kit is a collection of pre-designed starter templates for a WordPress Site Builder that share a cohesive visual style.
-* [Astro Elementor Widgets Lite](https://wordpress.org/plugins/astro-elementor-widgets-lite/) -  A modern collection of Elementor widgets. 
+* [Astro Elementor Widgets Lite](https://wordpress.org/plugins/astro-elementor-widgets-lite/) -  A modern collection of Elementor widgets.
 * [WP Layouts](https://wordpress.org/plugins/wp-layouts/) -  Save, store and import layouts instantly, all in ONE place with the click of a button.
-* [Black Widgets For Elementor](https://wordpress.org/plugins/black-widgets/) -  The black building widgets for Elementor. 
+* [Black Widgets For Elementor](https://wordpress.org/plugins/black-widgets/) -  The black building widgets for Elementor.
 * [Primary Addon for Elementor](https://wordpress.org/plugins/primary-addon-for-elementor/) -  Primary Addon for Elementor covers all the must-needed elements for creating a perfect websites using Elementor Page Builder. 20+ Common Elementor widget covers all of the Primary elements.
 * [JSON Based Animation for Elementor](https://wordpress.org/plugins/include-lottie-animation-for-elementor/) -  Autoplay | Hover | Click | Mouse Over-Out | Parallax Effect using JSON Based Animation for Elementor and proudly developed by KAP ASIAs Team.
 * [Flexi Addons for Elementor](https://wordpress.org/plugins/flexiaddons/) -  A collection of premium quality & highly customizable addons or modules for use in Elementor page builder.
@@ -285,7 +285,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Telementor](https://wordpress.org/plugins/telementor-telegram-for-elementor-form/) -  Easy and Fast Telegram Integration for Elementor Form.
 * [HQ Widgets for Elementor](https://wordpress.org/plugins/hq-widgets-for-elementor/) -  The HQ Widgets for Elementor is an elementor addons package for Elementor page builder plugin for WordPress.
 * [Addon Package for Elementor](https://wordpress.org/plugins/addon-package-for-elementor/) -  This lightweight Plugin (Addon for Elementor) allows you to use FlexSlider in Elementor.
-* [ePdf-Support Elements Pdf Creator Addon For Elementor Lite](https://wordpress.org/plugins/epdf-support-elements-pdf-creator-addon-for-elementor-lite/) -  ePdf-Support Elements Pdf Creator Addon For Elementor Lite permits the users to get static look of Blogs, Product, Post, Page and many more made by Elementor Page Bulider. 
+* [ePdf-Support Elements Pdf Creator Addon For Elementor Lite](https://wordpress.org/plugins/epdf-support-elements-pdf-creator-addon-for-elementor-lite/) -  ePdf-Support Elements Pdf Creator Addon For Elementor Lite permits the users to get static look of Blogs, Product, Post, Page and many more made by Elementor Page Bulider.
 * [Events Widgets For Elementor And The Events Calendar](https://wordpress.org/plugins/events-widgets-for-elementor-and-the-events-calendar/) -  Events Calendar Templates Builder For Elementor to create a beautiful calendar in  page and post.
 * [Super Addons for Elementor](https://wordpress.org/plugins/super-addons-for-elementor/) -  Enhance your Elementor page building experience with 15+ creative elements and extensions.
 * [Advanced Image Hover Effect for Elementor](https://wordpress.org/plugins/advanced-image-hover-effect-for-elementor/) -  Advanced Image Hover Effect for Elementor Page Builder is customized hover effects for your box layout.
@@ -348,6 +348,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Social Feed Widgets For Elementor](https://wordpress.org/plugins/social-feed-widgets-for-elementor-using-smash-balloon/) -  Social Feed Widget Addon For Elementor create social feed in page and post.
 * [Elespare](https://wordpress.org/plugins/elespare/) -  Free news magazine and blog elements addons for Elementor.
 * [UnikForce Elementor WooCommerce Builder](https://wordpress.org/plugins/unikforce-elementor-woocommerce/) -  UnikForce Elementor WooCommerce elements library for Elementor page builder plugin for WordPress.
+* [Simple breadcrumb for Elementor](https://github.com/m1ga/elementor_breadcrumb) -  Simple breadcrumb for Elementor
+* [Modern Events Calendar Lite - Detail pages](https://github.com/m1ga/mec_lite_detail_pages) -  Create custom detail pages with Elementor for Modern Events Calendar Lite 
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
@@ -364,7 +366,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Suki](https://wordpress.org/themes/suki/) - Suki is a free multi-purpose WordPress theme that is lightweight, fast, highly customizable, and flexible.
 * [Airi](https://wordpress.org/themes/airi/) - Airi is a powerful, flexible, and modern theme for your business website.
 * [Sydney](https://wordpress.org/themes/sydney/) - Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence.
-* [Kadence](https://wordpress.org/themes/kadence/) - Kadence Theme is a lightweight yet full featured WordPress theme for creating beautiful fast loading and accessible websites, easier than ever. 
+* [Kadence](https://wordpress.org/themes/kadence/) - Kadence Theme is a lightweight yet full featured WordPress theme for creating beautiful fast loading and accessible websites, easier than ever.
 * [Izo](https://wordpress.org/themes/izo/) - Izo a fast, lightweight, native AMP and fully customizable multipurpose WordPress theme.
 * [Zakra](https://wordpress.org/themes/zakra/) - Zakra is flexible, fast, lightweight and modern multipurpose theme that comes with many starter free sites.
 * [Michelle](https://wordpress.org/themes/michelle/) - Michelle is accessibility ready WordPress theme for creating inclusive, accessible websites.
@@ -373,7 +375,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Everse](https://wordpress.org/themes/everse/) - Everse is a multi niche optimized WordPress theme based on Elementor Page Builder.
 
 ## Elementor Performance
-* [ToolKit For Elementor](https://toolkitforelementor.com/) - Build lighter Elementor experiences with over twenty performance tweaks, powerful site admin tools, and amazing support. 
+* [ToolKit For Elementor](https://toolkitforelementor.com/) - Build lighter Elementor experiences with over twenty performance tweaks, powerful site admin tools, and amazing support.
 * [Disable Elementor Overview dashboard widget](https://gist.github.com/lukecav/37e187e0f6e2a0ecfdbca657e091fe12) - This code snippet will disable the Elementor overview dashboard widget, introduced in Elementor 1.9.
 * [Debug Elementor](https://wordpress.org/plugins/debug-elementor/) - Debugging plugin for Elementor to display post/page data saved by Elementor page builder.
 * [Clean Elementor](https://wordpress.org/plugins/clean-elementor/) - Set Elementor settings and clean up the dashboard.
