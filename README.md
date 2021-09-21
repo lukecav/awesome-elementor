@@ -348,10 +348,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Social Feed Widgets For Elementor](https://wordpress.org/plugins/social-feed-widgets-for-elementor-using-smash-balloon/) -  Social Feed Widget Addon For Elementor create social feed in page and post.
 * [Elespare](https://wordpress.org/plugins/elespare/) -  Free news magazine and blog elements addons for Elementor.
 * [UnikForce Elementor WooCommerce Builder](https://wordpress.org/plugins/unikforce-elementor-woocommerce/) -  UnikForce Elementor WooCommerce elements library for Elementor page builder plugin for WordPress.
-* [WPB Elementor Addons](https://wordpress.org/plugins/wpb-elementor-addons/) - Highly customizable addons for Elementor page builder.
-* [Simple breadcrumb for Elementor](https://github.com/m1ga/elementor_breadcrumb) -  Simple breadcrumb for Elementor
-* [Modern Events Calendar Lite - Detail pages](https://github.com/m1ga/mec_lite_detail_pages) -  Create custom detail pages with Elementor for Modern Events Calendar Lite 
-* [Black Widgets For Elementor](https://wordpress.org/plugins/black-widgets/) - The black building widgets for Elementor.
+* [Simple breadcrumb for Elementor](https://github.com/m1ga/elementor_breadcrumb) -  Simple breadcrumb for Elementor.
+* [Modern Events Calendar Lite - Detail pages](https://github.com/m1ga/mec_lite_detail_pages) -  Create custom detail pages with Elementor for Modern Events Calendar Lite.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
