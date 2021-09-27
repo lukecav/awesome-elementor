@@ -374,6 +374,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Deep](https://wordpress.org/themes/deep/) - Deep is a free, fully responsive, Retina-Ready WordPress theme with a minimal design that allows visitors to focus on content.
 * [Everse](https://wordpress.org/themes/everse/) - Everse is a multi niche optimized WordPress theme based on Elementor Page Builder.
 * [Nexter](https://wordpress.org/themes/nexter/) - Bare WordPress Theme made for Block builder and Popular Page Builders.
+* [Qi](https://wordpress.org/themes/qi/) - Qi theme is the latest free offering developed by Qode Interactive.
 
 ## Elementor Performance
 * [ToolKit For Elementor](https://toolkitforelementor.com/) - Build lighter Elementor experiences with over twenty performance tweaks, powerful site admin tools, and amazing support. 
