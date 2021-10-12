@@ -351,6 +351,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Simple breadcrumb for Elementor](https://github.com/m1ga/elementor_breadcrumb) -  Simple breadcrumb for Elementor.
 * [Modern Events Calendar Lite - Detail pages](https://github.com/m1ga/mec_lite_detail_pages) -  Create custom detail pages with Elementor for Modern Events Calendar Lite.
 * [Selection Lite](https://wordpress.org/plugins/selection-lite/) -  Carefully selected Elementor addons bundle, for building the most awesome websites.
+* [ShopReady – Elementor Addons](https://wordpress.org/plugins/shopready-elementor-addon/) -  WooCommerce Widgets for the Elementor WordPress plugin.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
