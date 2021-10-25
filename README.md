@@ -355,6 +355,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Elementor - Just free](https://github.com/m1ga/elementor_just_free) -  Just show stuff in Elementor. Hides/removes Pro elements.
 * [Custom CSS for Elementor](https://wordpress.org/plugins/custom-css-for-elementor/) -  A lightweight plugin that open an option to add custom CSS code for each device (desktop, tablets, mobiles) by elementor widgets.
 * [EazyGrid for Elementor](https://wordpress.org/plugins/eazygrid-for-elementor/) -  Easiest Photo Grid Gallery Plugin for Elementor.
+* [Genius Addons For Elementor](https://wordpress.org/plugins/genius-addon-lite/) -  Genius Addon is a lightweight Elementor widgets and template library collection.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
