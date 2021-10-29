@@ -382,6 +382,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Everse](https://wordpress.org/themes/everse/) - Everse is a multi niche optimized WordPress theme based on Elementor Page Builder.
 * [Nexter](https://wordpress.org/themes/nexter/) - Bare WordPress Theme made for Block builder and Popular Page Builders.
 * [Qi](https://wordpress.org/themes/qi/) - Qi theme is the latest free offering developed by Qode Interactive.
+* [Ashe](https://wordpress.org/themes/ashe/) - Personal and Multi-Author Free WordPress Blog Theme.
 
 ## Elementor Performance
 * [ToolKit For Elementor](https://toolkitforelementor.com/) - Build lighter Elementor experiences with over twenty performance tweaks, powerful site admin tools, and amazing support. 
