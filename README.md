@@ -357,6 +357,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [EazyGrid for Elementor](https://wordpress.org/plugins/eazygrid-for-elementor/) -  Easiest Photo Grid Gallery Plugin for Elementor.
 * [Genius Addons For Elementor](https://wordpress.org/plugins/genius-addon-lite/) -  Genius Addon is a lightweight Elementor widgets and template library collection.
 * [Extender All In One For Elementor](https://wordpress.org/plugins/extender-all-in-one-for-elementor/) -  The All in One Widgets you'll ever need.
+* [Zeus Elementor](https://wordpress.org/plugins/zeus-elementor/) -  Add many new powerful and entirely customizable widgets on top of any Elementor Package (Free, Pro). Works with any WordPress theme.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
