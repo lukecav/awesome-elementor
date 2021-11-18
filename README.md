@@ -384,6 +384,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Nexter](https://wordpress.org/themes/nexter/) - Bare WordPress Theme made for Block builder and Popular Page Builders.
 * [Qi](https://wordpress.org/themes/qi/) - Qi theme is the latest free offering developed by Qode Interactive.
 * [Ashe](https://wordpress.org/themes/ashe/) - Personal and Multi-Author Free WordPress Blog Theme.
+* [OlympusWP](https://wordpress.org/themes/olympuswp/) - Olympus is the perfect tool to build your entire website with ease, specially designed for Zeus Elementor, only Vanilla JS used to make it fast as lightning.
 
 ## Elementor Performance
 * [ToolKit For Elementor](https://toolkitforelementor.com/) - Build lighter Elementor experiences with over twenty performance tweaks, powerful site admin tools, and amazing support. 
