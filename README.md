@@ -395,6 +395,8 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Clean Elementor](https://wordpress.org/plugins/clean-elementor/) - Set Elementor settings and clean up the dashboard.
 * [How To Speed up WordPress: In-Depth Guide](https://elementor.com/blog/how-to-speed-up-wordpress-website/) - Understanding all the ins and outs of WordPress performance can be complicated, which is why we’ve created this huge guide on how to speed up your WordPress site.
 * [How to Speed Up a Slow Site With Elementor](https://elementor.com/help/speed-up-a-slow-site/) - Elementor is the fastest website builder for WordPress, written with the strictest code standards. Some websites, however, might have a configuration that causes slow loading.
+* [Freesoul Deactivate Plugins](https://wordpress.org/plugins/freesoul-deactivate-plugins/) - Freesoul Deactivate Plugins allows you to disable specific plugins on specific pages. Useful to reach excellent performance and for support in problem-solving even when many plugins are active.
+* [Editor Cleanup For Elementor](https://wordpress.org/plugins/editor-cleanup-for-elementor/) - An FDP add-on to speed up Elementor in the backend.
 
 ## Premium Elementor Third-Party Widgets/Add-Ons
 |                                                 |                                                                                                                                                                            |
