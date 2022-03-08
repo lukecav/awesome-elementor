@@ -359,6 +359,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Extender All In One For Elementor](https://wordpress.org/plugins/extender-all-in-one-for-elementor/) -  The All in One Widgets you'll ever need.
 * [Zeus Elementor](https://wordpress.org/plugins/zeus-elementor/) -  Add many new powerful and entirely customizable widgets on top of any Elementor Package (Free, Pro). Works with any WordPress theme.
 * [Rocket Addons](https://wordpress.org/plugins/rocket-addons/) -  Conditional logic and form addons for Elementor Pro.
+* [Cozy Addons for Elementor](https://wordpress.org/plugins/cozy-addons/) -  Cozy Addons is the powerful elementor widgets plugin, which comes with advance powerful widget with multiple layout that powerup your website.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
