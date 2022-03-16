@@ -38,6 +38,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Contact Form 7 Widget For Elementor](https://wordpress.org/plugins/cf7-widget-elementor/) - Adds Contact Form 7 widget element to Elementor page builder for easy drag & drop the created contact forms with CF7 (contact form 7).
 * [Addons for Elementor](https://wordpress.org/plugins/addons-for-elementor/) - A collection of premium quality addons or widgets for use in Elementor page builder. Elementor must be installed and activated.
 * [Boosted Elements](https://codecanyon.net/item/boosted-elements-wordpress-page-builder-addon-for-elementor/20225210) - The Boosted Elements plugin adds additional page builder elements to the free Elementor page builder.
+* [DynamicElementor](https://wordpress.org/plugins/dynamicelementor/) - The Boosted Elements plugin adds additional page builder elements to the free Elementor page builder.
 * [Elementor Button Plus](https://wordpress.org/plugins/fd-elementor-button-plus/) - Additional Styles and Options for elementor Button Widget.
 * [Essential Addons for Elementor Lite](https://wordpress.org/plugins/essential-addons-for-elementor-lite/) - Elements bundle for Elementor page builder plugin for WordPress.
 * [Elements Plus](https://wordpress.org/plugins/elements-plus/) - Custom elements for the Elementor page builder.
@@ -146,7 +147,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Builder Shortcode Extras](https://wordpress.org/plugins/builder-shortcode-extras/) - A collection of totally useful extra Shortcodes to make the life of Site Builders more easy.
 * [Builder Template Categories](https://wordpress.org/plugins/builder-template-categories/) - This plugin adds a Taxonomy "Template Category" for categorizing templates to make the life of site builders a little bit easier.
 * [Elementor CPT Magic Tool](https://wordpress.org/plugins/cpt-magic-tool-addons-for-elementor/) - Elementor addon for add Custom post type fields add in to page or post. You can add both ACFs & PODs plugin fields.
-* [Dynamic Conditions](https://wordpress.org/plugins/dynamicconditions/) - Activates conditions for dynamic tags to show/hides a widget.
+* [Dynamic Conditions](https://wordpress.org/plugins/dynamicconditions/) - Add more dynamic control to your website by using variables from query strings (GET) or form submissions (POST).
 * [Product Category Slider for Elementor](https://wordpress.org/plugins/woo-category-slider-for-elementor/) - WooCommerce Category Slider elementor helps you display WooCommerce Categories aesthetically in a nice sliding manner.
 * [Master Addons for Elementor](https://wordpress.org/plugins/master-addons/) - Master Addons is easy and must have Elementor Addons for WordPress Page Builder. Clean, Modern, Hand crafted designed Addons blocks.
 * [Easy SEO Toolkit](https://wordpress.org/plugins/easy-seo-toolkit/) - Add keywords, Meta Titles and Meta Descriptions right from your Elementor Page Settings panel.
