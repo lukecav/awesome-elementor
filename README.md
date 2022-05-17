@@ -361,6 +361,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Zeus Elementor](https://wordpress.org/plugins/zeus-elementor/) -  Add many new powerful and entirely customizable widgets on top of any Elementor Package (Free, Pro). Works with any WordPress theme.
 * [Rocket Addons](https://wordpress.org/plugins/rocket-addons/) -  Conditional logic and form addons for Elementor Pro.
 * [Cozy Addons for Elementor](https://wordpress.org/plugins/cozy-addons/) -  Cozy Addons is the powerful elementor widgets plugin, which comes with advance powerful widget with multiple layout that powerup your website.
+* [Live Copy Paste](https://wordpress.org/plugins/live-copy-paste/) -  By using this plugin, you can easily import/paste all sections on your site from the Elementor Editor/Widget Demo/Ready-Made Pages and Blocks. One click to change the world.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
