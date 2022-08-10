@@ -363,6 +363,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Cozy Addons for Elementor](https://wordpress.org/plugins/cozy-addons/) -  Cozy Addons is the powerful elementor widgets plugin, which comes with advance powerful widget with multiple layout that powerup your website.
 * [Live Copy Paste](https://wordpress.org/plugins/live-copy-paste/) -  By using this plugin, you can easily import/paste all sections on your site from the Elementor Editor/Widget Demo/Ready-Made Pages and Blocks. One click to change the world.
 * [Exclusive Addons for Elementor](https://wordpress.org/plugins/exclusive-addons-for-elementor/) -  Packed with a bunch of Exclusively designed widgets for Elementor with all the customizations you ever imagined.
+* [Pixel Gallery Addons for Elementor](https://wordpress.org/plugins/pixel-gallery/) -  Pixel Gallery is the first Elementor based WordPress gallery addon that provides the easiest image gallery making experience. Just drag and drop gallery widgets into your webpage and you can start making awesome WordPress galleries in minutes.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
