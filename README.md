@@ -177,7 +177,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [WPHobby Addons for Elementor](https://wordpress.org/plugins/wphobby-addons-for-elementor/) - Ultimate addons package for Elementor page builder plugin for WordPress.
 * [User Frontend for Elementor](https://wordpress.org/plugins/user-frontend-for-elementor/) - Create full featured admin panel/dashboard for the frontend.
 * [Advanced Post Queries for Elementor](https://wordpress.org/plugins/advanced-post-queries/) - An Elementor extension that gives you more options for quering your posts widget without coding.
-* [PDF viewer for Elementor](https://wordpress.org/plugins/pdf-viewer-for-elementor/) - This plugin helps you embed PDF documents to Elementor quickly and easily.
+* [PDFjs viewer for Elementor](https://wordpress.org/plugins/pdfjs-viewer-for-elementor/) - This plugin helps you embed PDF documents to Elementor quickly and easily.
 * [Post Kits for Elementor](https://wordpress.org/plugins/post-kits-for-elementor/) - News, Magazine, Blog Kits for Elementor plugin.
 * [Smart Addons for Elementor](https://wordpress.org/plugins/smart-addons-for-elementor/) - Packed with a bunch of Smart designed widget for Elementor.
 * [News Ticker Widget for Elementor](https://wordpress.org/plugins/news-ticker-widget-for-elementor/) - It showcases your most recent posts in a ticker style.
