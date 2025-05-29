@@ -403,6 +403,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Freesoul Deactivate Plugins](https://wordpress.org/plugins/freesoul-deactivate-plugins/) - Freesoul Deactivate Plugins allows you to disable specific plugins on specific pages. Useful to reach excellent performance and for support in problem-solving even when many plugins are active.
 * [Editor Cleanup For Elementor](https://wordpress.org/plugins/editor-cleanup-for-elementor/) - An FDP add-on to speed up Elementor in the backend.
 * [Speed Booster for Elementor](https://wordpress.org/plugins/speed-booster-for-elementor/) - Speed Booster for Elementor - optimize the loading of Elementor page builder.
+* [Lazy Load Control For Elementor](https://wordpress.org/plugins/lazy-load-control-for-elementor/) - Remove the Lazy Load attribute from specific images in Elementor.
 
 ## Premium Elementor Third-Party Widgets/Add-Ons
 |                                                 |                                                                                                                                                                            |
