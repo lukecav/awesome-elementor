@@ -364,6 +364,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Exclusive Addons for Elementor](https://wordpress.org/plugins/exclusive-addons-for-elementor/) -  Packed with a bunch of Exclusively designed widgets for Elementor with all the customizations you ever imagined.
 * [Pixel Gallery Addons for Elementor](https://wordpress.org/plugins/pixel-gallery/) -  Pixel Gallery is the first Elementor based WordPress gallery addon that provides the easiest image gallery making experience. Just drag and drop gallery widgets into your webpage and you can start making awesome WordPress galleries in minutes.
 * [Jeg Elementor Kit](https://wordpress.org/plugins/jeg-elementor-kit/) - Additional widgets for Elementor page builder. It has 40 highly customizable widgets.
+* [UiChemy](https://wordpress.org/plugins/uichemy/) - Turns Figma designs and AI builds into native, editable Elementor pages.
 
 ## Themes which work well with Elementor
 * [Hello Elementor](https://wordpress.org/themes/hello-elementor/) - A plain-vanilla & lightweight theme for Elementor page builder.
